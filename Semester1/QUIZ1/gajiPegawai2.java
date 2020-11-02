@@ -1,1 +1,88 @@
-8b1d5f81ca16f79f677cef3b79fdc0bd72a14eb16444e354dac8a50ad8d09b65d5ba04b61540f8ec96ef5bcc56b79da4274930405d53d1370b70eb28a5fd507e9576d40a686717eeebb9978667da6510e5bd3f74d4c37857498f812db825cd5ca6ef8bcd6071f69fe44a759053f2df4c8214c38012a9dff6d3afca7ff2d2f6927005583847045e41bd00886f903e8d7524f051a5ad3385577ef3af5984e74dfc1b71917c4b04f7270e74a2b0c2876da8d3fa90fc01608f0283121316dc1322b3e22ced08bb32f6717dee6e1b3130d1657da5244a6e41b9d3fc19c868ad9955c4817266edaaf86151a8ede8b79c338de83b536b1f60a7444d37591828a945a885e2897cc5342a71c612f9dbfa7124a254940f3c9f5083e06973be2cb76fe39006e84b931436ddb4665c9e97c69d74820231718883802feffbc3626aa9600e0ca9b5818ba5cddab7316303b7bd5441b9970ef4b908032eff1893a5b36cee38226e3d506a0abad06d84bfb92c3a751440399e420da119bd2676bdd14f5688e381d2202b69a03ff05f4830ecc05bb998a26b86aa188af93e9d5f8959984f536dff60a5c47716fc40e76c4aa92bc4970af5cf23339c7c36db42b7f9b8a399331d6513e0ba0f8b5756a9763224b499cd3765d328e4b16fa7eb0444dd94f5bff758cb411263202ebe1be1daa0dbc845b731e62d12b8459ae13c420ba288781ade1f0c46712ea08c4885a5bc61df57178f2a0e649160bb8de6fb602144c9b3dbdd0634c90aeef91d72622db691bd4ac6013631a0abde7d394c12eb9a39a3e435cbc3ce0fef948da198684ad8129faa75ec67fb1a74910b5d45b301da635dd840d01a537bc7e98dbbe2c3e7469ac044402230892c958a2e53ee471236b3f0340688bb32dccf639905a1d0bb122e3ab22cf305b768c9febe800addaa18dc65d55bdbf93409fa911fbcba0e71896abb5b3966f192cea400b590446a2a6a4e4a6481499d06d93a85cf5584fc006029a67ab40ec6b8c56f61aad9ee02dde2f31e3fec94dcb0976f5c91ce371d9ff7187636dc270987f9ec590be3493649a0df3672c2987002ceac6827fd433deefde825ad0c2ebd0d0a1f9b26263bbfe0faf5bfb66e949649110c106b8df15bde35766ec935b0821bfc45ec6747f319c839eb0e0ebcc4fcaf8c3b1445a74da3fdda4c46db2ef75909c6d452cfafeee4665ff39d6807671e29cb2545a1c97f2aed96cd6d1cfa92842b2a748b499727c0b0953453b0db645500075dff72fad8f0759d572777aeaf3f8570ad8a8554ef22afe99b086e9ead6378dab20bbd4cd74cfc090134b2e7a6a891b1f9994a2d67ff8d7aa6c4b74aace5fe81356bc66c8d6c3c0e08e117e0d6749f5eb6b3b13c2ee5a9f13939aa64e842a5d7663d01b3ac507fe631b4105a3b9caca74f3acc9f7b1d5f6ffd163a3e08177b2922738ed2c97cc5512b4505a629de5e3f539805bad6aa9e38d7c95f0a147713155c64034b02ddeb0f5b05ea61b304a61f5eedd872726b14828ce05afc0761978870c83372fa217322458078d0f01d5dfc75d3c29da645abb8cb2b4645ab51da8499da5bc4cbff00c97c0ddea447483628089318459e72c7c0a16c6305563119f78618bd3169541a0c038bd8807eb7d9be2b12c3803e4ee8b5c8b784fbb22923109ef8fae1e80f94b7e61711e9fc30c56db6584ced32e2133b97236e2ce8d0270f09b03b511368f446d0e43c036dedc461c980d88e5d63fac2a8f99288eb0af562fc62d2eb0bb2852128f23030553de008e972309aef0ab632cccaa0b815c1c8171fb198c36b1f051ef2b2d25e755246bba0fa26b02e6635148754ba4d1c6f29897b9bab90144c338e8a186c35056f7d194bc70b6084924c1b483c031c5f119a541488109403165f82da355738ad1ff80bc48055feb616d941ef1e8aa0d00b0b9117992a8ce324f94516d82049882a008d80e6ca86101b1c2e6237b95819ef0d8fe4be1b893d05f550ca75ad1207db2f331e2bb3d84fddf451efe33a5a86a16abc34939722b00d95bf7feb96ab9a8ccd2ad8ab88c916663454de499db28472ecd1bad6fd113254ace4b420a01245484bccf010e758baaec4919dd5a7ade01ae83dc2f0abd0cbe3c8e6dc96a40c92e5bdfd54173e768cb14bc5a999749901aabfbdc018f09c1ad48a283faa17e3666a1b267b87cd7c4a16ae47912ba67b9dc3aeec648ca363200827d3534cdc9892c69d7fdb4eafa75ce0558aa6808167a79fdb02b30a8ec0ad81ff42c25c7f833bc270713be85765c77dc7430140bd8f40f5ba765e2a4f70f9c91906423726fb8ea7fcc12cc46061eeaf5e3988b995cf27a20b902efb748b9e3116faa33988959557555c42323a49b907c08cd917d0a6ba7cf372b12ca74781fae70179369852efa58dd42a9a4474b8095b7ec5b1d5bc83796cdd08fd79a0a897984b5115e8e783515adb6cfc500bf8d82ad757f82719177fd2e8549258cb52c5444f5a970e8b152ac40263160eb1c6e108573dc98d22004857d91fb7e69eed295c6158b5fb767378bddb127d9be1e871c83ea79cee6a9801d7862881ef3da87db143609a17ede47d5f751efca1a925306d93c347970b8722ec18d0039cb8a95d78115c96b903ef6d03c021194186ce6256f2bedd42a43cd26d44bdd8f0d1d397979d81a67100c4b43a2fe2bf72b076c34d60546394c3988666f9544f3bd68865a450024bc18f7943ac6e4dfac76694975ad0f12daf1be98a58c997a0b3f002dd01faa71c0a0619467a6c02683fbefca6e11d29fadb86ee1f11e3a7c01919918e456adf1b18ec7ffd88e16e9b6c8839fd70050c87ab55ac0439426f294740bfc2dc3dd47ff14f72194e822a9ebce8ce9447138020a891532e0f14aeea321004e8bfe359867df97d965050146f7c7d4acc3a8b6eca1186c262a88dacc51b42526c42817433f911ce8d90a65a19a4d21ea7064b8ab340bea741823778affe409ca84d9cd756f5e04cd90173755e2dd037c8d4fa60e0cbe4ad4c44952083824eb8ea9d738bd17947ae926b884301139257d8ea1e21b7178fb02e8166f59969432a1d8b617b72027bb2d9395a99adb0993ebead5f3e23bddb7f505c2b23334106f263fd332627e22e525132dba7767b83c0e527597c36d840c77166754b9355053c78e3a9bae1f5d11cef84e1b8a63418eca540e5e9573f142e3b53e655a637f711de3a425e3d4750dd3f4df8ae14922210b21308ba691980d7fbea4fd6d258e708a6731acaee2064152f4c26ae8886fdb8d232e882d66958116abef4de1bdd9119b7a7e1d9ad2da259299612cad81f250a406d775db64102b1f85f2af51565832462ece9b5f8c0dbfead2979f6b00d624f931639f03aaceabadfe96549ac5448113ac9376ce412d981bbbfdaaef285bf8e527e69ab82f63f5a5fb10574a96db43fc97b8cdf6c1da495bb8653ff10895e55369098bf184126966a1d4ec4ddadee3975f5f8fff3f25e553db9ded3ae3b6d9cb8fb0ab5c4cfe5379bc2329966bf3f9d3635bc9f092ecc4b50f7c1a39e5666b5245ff024437f58db5ecb9f5229e7fc4c7eb7f47d19c30d86a8f4ab28dd2442b69a5ae3e5731064cd20f02cc0a781ed46386fdcff6f0fcccb98d22a60463c404b8e47c7e1716e42ac81e1dbabd06d94d54898ac84b04a4920b00b8a2025c1cf757f5b4a5984e5551bed77a85930cad7b3d603b010e4507f28ae2a41ee120f1ba05007b7b3aabfb5323614aa131e051519e7dcd17f6fa1d34ca1c83c13fe0c2c872e4d275b6ffe432e18e7f147e4e58dd023719db05ab7f72e90ea5bc9930e3b6c9a0c73b72e955c945d32e7a85d54329e47c9355108090f82dfb14177a9fb59e6e734ed9b4bc8d4ce2068bafa9083576f774f26056caea988324fe2ff483877e34cfba1ba2a2f036f3556f25e3cc90a1e338b93218d133fc2d7fae221e464d8938f231f66f4450b71839e0ed78a43487fca48fb633eaf230d609db79826e790c0aa3a9e69deb0ff3f6e671f1b612c4bf45bfbeec5ffe1e9403fc17a5123e0c4477ac5567d4e43e6134d4a011752a1026ec1bb3788ffb36dfef6cabc457061e29cc99a02380121effd13ab63d854f2cd934ab9ae2242a75ffb1c5392c2a2bbe0bb42bc11ac27fe73ed5e590ed5099b10e2f1875c77556a4ff53d0186422a4b4b9549d1f66431e6e71290326908f56325fc6e9e5f1beceec1f0b596a27d4c319b7e750bf18606c41e926fe3dee08e8a16a6ecdb63acd9bdbea98645c4dd7be66c8f58ab65795d67f8e8f4268f18c732370ed9038f6c50109e6071196665c73969910f87581777d4ad8c1c7e86d0b96cdc5606d91af0fc88829f54afd9e22adbfa6f00972120462801640492a969f86e1f214206080a2415e36e055fb5e3ad0f7b42d7cf18e020364eb6697c4d05f98a6662c2ee00f3462a6cd5b4d6a4115b7ae34a2619abad59e00ba7559e98f1c5dd1b84b8207d1c0b10f7bc0761670403d48a34b8a7d2459c25b9b6637bb96d4d3f7392af22c523ed8799c4f5c1fbb3cd5c2f927443baef8af5bcb0118a2cbd167b499efbc7c5b6dcb99d74d4c80b9b12019ccd1f3aa47b606d3e52234376915faf0685f3aad57c3a356a7de6ff5fab16640f6634606e533b813f2e751d0f47ee4bf3f4a80147d4aaa872b1703779facd079621aedbb37620fe2a51d2d5875111a8b331790098fdf2adc1b72e591d32cc5bca6a5eacd6bf7698d9c1931392816e28bdeafef2575ce63a68846ed13884baa5622fdb0a76e565989434a119821040495e3b0f4cc04d7bb2154822a8f6d6ff00574cc50ee22ce5009c103c17b62bc4febad0d904977b1e89ae09d61b9987b99c50d26ffd1c36670a9dead9c3a48b0c51c98bfabdc8afa29b40ffe9e8d5c82cf519b9adce5d78feea68f5f71d1fc9ce9ab83ee537390c9fa42999aeb7ef99241089bd273e892d88ad86e7df8ece3278714f69f495e7c92ae4de558942f64c964f035b74d51d5ec46568bd563d459b339f5c5958bdc8d2d6bf3284c2aa23c7d251655fd642308b90ee0b99921d1392fa09b72f3c1fea3fbb7c2658cffbe8b9e53d02e539287943b0bec64bc43defd5ce07d8e21c327a45d503d1f8305f6b4be006b3c2cc383b82fc77d817e50bfb7311d04e7805ef71d9fb120d81990955ee5e53f17268ec51a22f0eb2f6b8583810bb77a1dcf6cdae1a6a6f6a30a7133c2537ffdcb994c6f3c23d2cd791e2e1c3bba3c178ec9c65ef9ae6d5ea596a8af30be036122a1dca37ba2449056a03d7768083cc85167cd8ca4039f1d70ec5654149072fd82c56f0b0032c5f62e949bfe5a0c414d98607e7a35093295f0a55f07299535a2ff1c9009431c7cecb0366dbfa3807cec45db8ecc6018cfcbe686d83abd7ad432a15565c58c2d00be3c7f7000fb20872dc8b432f4ccb8d3c001b68423625a97d7a87a2cc34f2b20b1f401beb747999e9185db20d8abfcb40139db4c2aac0adeb1830a2ed720627f0a21e8161276b9adb6ea8db9b2477e20c12dd8c0cca9af5f875165b1aeae244da2a059d036fe3ace7926729077f0713bdb1be15f21c4c921bb076c870121ba3ba858b189061139fac3a58c1daa2f208e0d1e58d8e9fa3e276db2149cf42c694f47c4cac1d0a
+
+import java.util.Scanner;
+
+/**
+ * Soal:
+ * Program untuk menentukan gaji bersih pegawai, yang mana maksimal pegawai 
+ * bekerja 200 jam selama 1 bulan, jika lebih maka dianggap sebagai uang lembur.
+ * User diminta untuk memasukkan jenis pegawai yaitu 1 untuk Tetap dan 2 untuk
+ * kontrak serta memasukkan jabatan yaitu 1 untuk kepala dan 2 untuk staff, dan
+ * sistem akan menampilkan total gaji. Total gaji kotor dihitung dari
+ * penjumlahan gaji perjam, gaji lembur dan tunjangan. Gaji bersih diperoleh
+ * setelah terdapat pengurangan pajak sebesar 5% dari total gaji kotor.
+ * 
+ * @author hryzx
+ */
+public class gajiPegawai2 {
+    public static void main(String[] args) {
+        int jenisPegawai, jenisJabatan, jamKerja, jamLembur;
+        double gaji, gajiLembur, tunjangan,
+                gajiKotor, potongan, gajiBersih;
+        String[] pegawai = {"Tetap", "Kontrak"};
+        
+        Scanner in = new Scanner(System.in);
+        System.out.println("Jenis Pegawai :" +
+                            "\n1. Tetap" +
+                            "\n2. Kontrak");
+        System.out.println("Masukkan jenis pegawai (1/2) :");
+        jenisPegawai = in.nextInt();
+        if (jenisPegawai >= 1 && jenisPegawai <= 2) {
+            System.out.println("Jenis Jabatan :" +
+                                "\n1. Kepala Bagian" +
+                                "\n2. Staff");
+            System.out.println("Masukkan jenis jabatan (1/2) :");
+            jenisJabatan = in.nextInt();
+            if (jenisJabatan >= 1 && jenisJabatan <= 2) {
+                System.out.println("Masukkan jumlah jam kerja :");
+                jamKerja = in.nextInt();
+                
+                if (jamKerja > 200) {
+                    jamLembur = jamKerja - 200;
+                    jamKerja = 200;
+                } else {
+                    jamLembur = 0;
+                }
+                
+                if (jenisPegawai == 1 && jenisJabatan == 1) {
+                    gaji = jamKerja * 30000;
+                    gajiLembur = jamLembur * 30000 * 1.5;
+                    tunjangan = 750000;
+                } else if (jenisPegawai == 1 && jenisJabatan == 2) {
+                    gaji = jamKerja * 20000;
+                    gajiLembur = jamLembur * 20000 * 1.5;
+                    tunjangan = 500000;
+                } else if (jenisPegawai == 2 && jenisJabatan == 1) {
+                    gaji = jamKerja * 20000;
+                    gajiLembur = jamLembur * 20000 * 1.2;
+                    tunjangan = 500000;
+                } else if (jenisPegawai == 2 && jenisJabatan == 2) {
+                    gaji = jamKerja * 10000;
+                    gajiLembur = jamLembur * 10000 * 1.2;
+                    tunjangan = 300000;
+                } else {
+                    gaji = 0;
+                    gajiLembur = 0;
+                    tunjangan = 0;
+                }
+                gajiKotor = gaji + gajiLembur + tunjangan;
+                potongan = gajiKotor * 0.05;
+                gajiBersih = gajiKotor - potongan;
+                
+                System.out.println("----------------------------------------" +
+                                    "\nRincian Gaji Pegawai " + pegawai[jenisPegawai - 1] +
+                                    "\nGaji\t\t: " + gaji +
+                                    "\nGaji Lembur\t: " + gajiLembur +
+                                    "\nTunjangan\t: " + tunjangan +
+                                    "\n----------------------------------------+" +
+                                    "\nGaji Kotor\t: " + gajiKotor +
+                                    "\nPotongan\t: -" + potongan +
+                                    "\n----------------------------------------" +
+                                    "\nGaji Bersih\t: " + gajiBersih);
+            } else {
+                System.out.println("Angka yang Anda masukkan salah!");
+            }
+        } else {
+            System.out.println("Angka yang Anda masukkan salah!");
+        }
+    }
+}
