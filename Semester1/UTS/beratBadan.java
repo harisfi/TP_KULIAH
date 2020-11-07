@@ -1,1 +1,66 @@
-b219c7c38b014921adc41c287d9aed200e613f1fbbc3a08edbf2e617aeaa9a2272dfb8a2392f1e28d7c985346b4645c67245c58d3a7f79eb8bcc734f49374af78bd529d7303d27e158d2df75486b82cd48ac07abb99af4bcaaf5f22d10ba1cdea6ee4b85c420b65230a6694afcd187c0ccae821e05e067737cd848a8b07d4f44e914b2477dc082ab20ce0d28fa93b30ebfe2113d9df9d42999772d25634af4548e53107c012847a73704ffd49541ed90f81262d1a9f0c097fd2a002b581bb33e07ccec79a14c8116cadb99499a2db2680f83b7e012aa19740af94467405cab3254ad4e7d7d6ecee5c56e25f537d55c6318b112ac502132b93e4c8063c3b821af2df046fc19997721fcd503500db31cb89ef930e06eb0f7eda54347c7f787baae43910cc6b75f3b062acd81fe54c79313bca8209c08599976301e5ecfd5b48cec2d0e2041a0c06b863447a5d99d966e18b95f22d7d222a0cdb17fb14a0da78a0f2991fe302da0553471e5e883da635454a85300afc2e08107d970bbe88a0aabdbcd57f34ab2bc5c9c9989414ea71440365291a303d220001b73eb601f016676638591067d0784435d4c5d1a195edf1a20dec6c99c245a0658b2c20a3ff2c7d1a91f82dc56371e8a351f35efb129830295942952b905fd125c6f16a73caf95a4a7f2090cae062217e7b2d87bf71616807b7eff09546447bda31897ee8e2d7fe505ca9d46a8a203a83a0f2073b6e5e8916646598d0179b16c21be5cf721fbdee7e2a04920dec933d120b52ac6808a0eb4cfb60532cc85749992da7ae3d68c1d0f253e14ed2df98dca59b3456282f2a8778e3bd8f79cb639cf946201a183cb889719e4dff0860421c41cc4b3271881c4b6888ba3b4bcb5af677045421d7ed8cc9f917a1e8949acc17adb0d3b33ff86b36e8778d899e7bac5c3a9feea5debe2013dc57f48925435366ce9b0e5b2e53d558745fcb2bb04c04b9f64c18eedb7e93a619194ae7c9660a0adad774761663c8ef939f2de9a907c6f981f777c033cf4bb2de28bb9bb4b1456ff47d7500e035ea232fbcf6e6cfc32103e1288efad0a31670146bff54c586064fb80ce97756833c2df5dd1e13f15a89ad7ed49d1d7d8c102ad8ec0a257bd67e252c4bbf8b9d15a977bc08112829062930d190a19dfe34345c36d9a31d3391c221d2cd690b0871b1a99f82a78b9b862a699eb4358880d812706af049fc7c8507ac88243d463c0a1d534f02451150331e2713bcdd749fcfc7caf81261994cd6f57bb41a40e92f261c07a93b02ccab11382a709639e2445790556d2aed132293f625ed52bef09c8d7970b2effbbc3751bb7b03c1b2fda74a43bced9f64391cebaf28bdfff37e12a218352b6cdc3dcf161f6b62f0ac98af6cbd8ba71f3a025b8a7506d30d3cf35c04d5b247c146806b7206b33bb502e8e3bea4e9dbd6a422ca193871e34332290eb7b1d3972ac9ace73248b7aa5e8651f9056e91126bc299500138a286636bfeda2af716622731985ab04d2e3e860d477cc63bb70a15131f5483b353d3356a2926f74e3c14f0220eaddbeed0c65aaa2b9534d0dc7642a4a87e8841f334ad84b0b124fc8ad3d636edea0a633237fbb7ea30fa2bc9b84485f88978a45452ccac63c1c1d5986e7ce9e0c91791c72e6bbb94a7b218a6342fbee85553664ac42305db55b04a3c02fdb173215f74e0c32442afb1ddf80e7e392d1dffd13c238699eae2a2794f97ffe6236394be9770252b2a4d4cbe06ffbbe1cb8731bd1d95b59c431879d8218d62644a23019fac27239246f8b51be9ff8cb2e636faf6bbf1424d5e28f38d5e80b39e326a0ed41fd2cdc76d94bd3feb8340fc429c92a30c4111e8262635896724566bae88cca136775f3b95f9876be0bc7d4edf58ee645b488bf2a440cbe674347ba6adea1408d1354d20bc71cb63a1171520ecbe4ba4ed057cf335aab89317e1b9dc5569ee50a575c76f7f82ece95d458af0b899e4835f1cf45eb2880a49fba8576217ddad8de6a3d5d3bd7111c2ffc133d8c174b2f45edbcf67ab6ae90a31899ac947fffbf1584aebb9e3d80c61f6cf87e62ee3193f0d8a9aeb955955c2a35d318ccbe5ce7f66a7b9ed75aa72fd02cf528cc41b5076ee84c35ccab7c72d37eb8dea8cec545ee1e3515d3a02a371ba13aca1acbb34d00e551dd9d27bfecd7b950c4f6828a54a444458818a5be25c65007be680243058d16a56445dbcabf0729caf64feebeb887350f4df3dbd22ffdf82f9cfb422a55a9ae98f35a9464e926714435269a84f990a64cc018059a05f4804f3a03a731f71a61a0cfbdbba6829487d5b5dbc8441d0867079ca33090eea6632de0d7ec67633d5a68b4924cd4b97790c13ea4299ab550c7dcd0778e09b21fb604508be20a5818bd5f033c33b9b509423ff1b8f2a40a3707e2343ff18817a8767a89843ff32fc4e7ae74a40ee26d57a589dd9e88c65a6028764cc6c75762e383a7b528ad052e748180aafcc70ba852af7501fce913bfb97e8e7e263ac0a0458320ace35b6d65b816242d4a9f3f0f03a94a2e311d718477c2a2f611be51aac7ed7492fd21e10a453728738f7b34d0dea5f296c42db22505f17858c01b58ed58612172d2e0932fffc0275169a86285fc4efed7600483a29c6b8b9c2a5af77efa9094e4a1c68525b4149f44081597d92c8f7b4e99160735c210f9f117a8fa54d25969e72837f3d52ea8088a1a946cc388ef26c5e940b144bf6c35a4daf19d0fef1797731e3ecdb0812ed662d59e50e2d08230665aedc1dc83ca5c52e3ec55a8e99588d376e3a4ea88550b7213ff62585f5cb732d20d317ede3e7c76521516b26699a818fdc60f66194f0b21cb51a57b9cd8021ed95e9af111a16ab0e2c494dd39ac5cb3975adc87b2389854c109940d0494a4bd17985b2f103e1e4fe14881b08c4aea50e7b5117fea0d7c350ceb05b0d5471e42b088ba693b3d256ac77b04fb6cdd2bf4f01f6164ee83da65d019566e448b0106f77f74bd20d39554d350c0a5365c8981e1d1f7bbbd0b752f4854d4ef1f101672497c984850c94afc3425bb27f9c684acf7c1d48d15977f8e322e89b75a7a55e89ef90f1fec6d81b13ad2001d84951c7931bdae63efd409339b6c69d47e917059f9944788c2576218dea04e1f6a781a75578fc7cab8ec3ff66c0c2ca9e96f2737efcef02e6a84ea052e1705d893c7da17e1a3296664d01979d1d32bb760d214bcc4bd35b387e3e771584d5b7f3834e11772e1e8871d8f21e28badf2d1bb4fe1185f558bd19bc6c82ff4d840ca2630895ae87b35f6c60c39178d398dd1951af49f6eea2ec99a4e1f1f244522b686cc5202c8d9cacd32dcedfaa5f51f84fbe616d94381ec11ccb72f104f76125b9924e596cbeeb52ddd060a117f5051bf9f0dea9fc1e7640f6ae858121a54f30d62efaa591c6ea9e5282d08c2bd15baf40c899362254da706e60b01a83ed47f878a47a2db23d6c6fe3201a70c60d172af5df8298ba24e50601f47188304341136fc01977ea91939e9af765f65bff2af7e1ab2c9874e0a2d5c03f32c96d2402b62e54e8298b6356307d10e6edf6c0ac8fe9927c8222199f3d855187c8a06ee316ae2c8c889d97cc604e99eb9a216d9cca73104137ff0fad0dbc2c27137f866d2246e18e6d25fb43d7dc93e04997ccbd2e48e9981590dcddbed1b2ebbf7d5ea1494f7b4c253ecac0ddc0f7d1a23ea1f007194d435e59c8598895f2971e4bf93dda92dd5d0d2454111b918afe3fbd7ee865578352be17d87b9c7f7ac69d59962dc425b748aa0773abf861d7b0c13dcba2e51bbb22abc23f45618880be71b049573d031d105667dc5e2760d15c055bddc665d6918caac08ead150
+
+import java.util.Scanner;
+
+/**
+ * @author hryzx
+ */
+public class beratBadan {
+    public static void main(String[] args) {
+        int pilih;
+        double beratBadan, tinggiBadan, BMI, BBI;
+        String kategori = "";
+        
+        Scanner in = new Scanner(System.in);
+        System.out.println("-----Menu-----"+
+                           "\n1. Perempuan"+
+                           "\n2. Laki-laki"+
+                           "\n--------------");
+        System.out.println("Masukkan menu pilihan Anda (1/2):");
+        pilih = in.nextInt();
+        switch (pilih) {
+            case 1:
+                System.out.println("Masukkan berat badan Anda (kg):");
+                beratBadan = in.nextDouble();
+                System.out.println("Masukkan tinggi badan Anda (cm):");
+                tinggiBadan = in.nextDouble();
+                
+                tinggiBadan /= 100;
+                BMI = beratBadan / (tinggiBadan * tinggiBadan);
+                System.out.println("Nilai BMI Anda: " + BMI);
+                
+                if (BMI < 17) kategori = "Kurus";
+                else if ((BMI >= 17) && (BMI < 23)) kategori = "Normal";
+                else if ((BMI >= 23) && (BMI < 27)) kategori = "Kegemukan";
+                else if (BMI >= 27) kategori = "Obesitas";
+                System.out.println("Kategori berat badan Anda adalah: " + kategori);
+                
+                tinggiBadan *= 100;
+                BBI = (tinggiBadan - 100) - ((tinggiBadan - 100) * 0.15);
+                System.out.println("Berat badan ideal Anda: " + BBI);
+                break;
+            case 2:
+                System.out.println("Masukkan berat badan Anda (kg):");
+                beratBadan = in.nextDouble();
+                System.out.println("Masukkan tinggi badan Anda (cm):");
+                tinggiBadan = in.nextDouble();
+                
+                tinggiBadan /= 100;
+                BMI = beratBadan / (tinggiBadan * tinggiBadan);
+                System.out.println("Nilai BMI Anda: " + BMI);
+                
+                if (BMI < 17) kategori = "Kurus";
+                else if ((BMI >= 17) && (BMI < 23)) kategori = "Normal";
+                else if ((BMI >= 23) && (BMI < 27)) kategori = "Kegemukan";
+                else if (BMI >= 27) kategori = "Obesitas";
+                System.out.println("Kategori berat badan Anda adalah: " + kategori);
+                
+                tinggiBadan *= 100;
+                BBI = (tinggiBadan - 100) - ((tinggiBadan - 100) * 0.1);
+                System.out.println("Berat badan ideal Anda: " + BBI);
+                break;
+            default:
+                System.out.println("Menu yang Anda masukkan salah.");
+                break;
+        }
+    }
+}
