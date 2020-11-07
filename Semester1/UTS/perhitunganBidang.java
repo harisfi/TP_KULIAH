@@ -1,1 +1,155 @@
-b219c7c38b014921b4d10b3d3a8cb92303390d52b6cca08c87848d69e9aee06169fff18f2835183498d1c42a78114aca1109c1f1536e62e782d72b65205104aed2ff6b98621c32d64dded1694878fa9412f42dfbe6d792a5bcb7ed3012ee16d1e7eb57ccd065a95b30bc3477efc280ecc291be5003b27b0a75d81382e0280d08a057b21460cf82e23387172efbcc9943feab5f35eead862498651414260be4568f1b44456a6c06e93b04ab9ddb4fe48d9a1e63deb29889b8d50d5f623679976063998e38ef0bd458d182cd1bd363f56844c2a7ea00a707780a8f48652e4b81444f874e7d7d6ececfc56e0ff537d55c636bf253915d252ef7325080378df679f863c652bd2494733dbae3080b2aaf02e292fa37b20ab9ecc7a54347c7f7f4e3fd648d129cbd4761472fcbc6e052c2934ff2eb25930859f93e7326168c8db48ce32b29224a8ac06b863447a5d99d966e18b95f22d7d222a0cdb17fb14a0da5f6413ae3b05166f2027945f9e488963b3756a37900afc2e08107d970bbe88a0aabdbcd57f34ab2bc5c9c99894332e90432782cdee859df08081d7fa7387c036d5c638591067d0784435d4c5d1a195edf1a20dec6c99c245a065ace8c054eb1c7d1a91f82dc56371e8a351031f99920982895942952b976a4417b7308fd36b7cfe5a2f44e12a803224ba991912acf1c0e947e35f3021a7c02a3bf548eef832a37c5058ebd08e4f20cb2221a3073b7cde18a4c46598d0179e1256dba51b9699fdee4a9a05f318abd7dcc66b27fa9d8de67fa9bbe0c29b5d23dcdd1927aeb8696060f39745cb60fb4c8840cd70c2fc7bcfb3e8778c28ed9b628d5be6201a183cb88975aa58cb586153bee1cb7ea744cc489b8c7def7baece7e62957505f4139f8838391655b9855e5cd6bc5026731b0cafa22c415fc99f6fbd7cb86f0ae02a7b8531ac872459f563e1c6ce9b0e5b2e53d558707b9e0fa50a20adb258f8ef0b7a0746fdfd1f628f22ff5efe1324d14330780f955bb90dddb3d3dd9517577293cf4c874b1dffcf6455b03ab498702474d0aee7cf3cd032daf675b7553c6eff9437f204473f1a5031c516fa9b2c5947d6a30ab9254cbe3360e829ad7ed49d1d7d8c102ad8ec0a257bd67b61b8afcbff0b31bd33a8e810dfe973f93432c171fe8e9514e8f58d376825252651f27fc90b0871b1a99f82a78b9b848a699eb4358880d812706af049fc7c8502e81cc04932aa2e2ed3bb32953050e2dff6c2deada44f1f171a28c2b1499c06255b25a8e6cff9b61dd7ad1f57e8be571c3e3482ded721625145292a6c32f452e7456d57fa947949cb40d3ae392c97014f9f4627f7ada24ed778791b70d91aff4b6cadff755b56a7cdc1db199bc88ff31a4ff615e85c4fec9b6f33db2e9689f846c0f10d3cc21944d44243e5a04259b712470f504268720c04e9dbd6a422ca193871e1e332290eb7b4e6e3bf8d986732cc63febf4415ed673d1362fa072ae171a8a632762faaaedfd38663f731beefe5687b0a93aad32cc72a15aa15131f5483b353d3356a2d72327a6c1064420e2d5dc80656abe95b9425a04c7622c4a8f8ae9763356d859181b46c8e67c372bd5a6ba3d6823e93d836af0f1dac84a44a2978a45452ccac63c1c1d5986e7ce9e0cd45e52478ff8ad406103e80e2bfbf098552477a542365bb55366cea92fc7172002fe2b11096c74ec2482f8aee38fd1dd9656857d24cbe56b6996e255fe6236394be977085d98a4d4cbe06ffbfb50eb361b989f5b51a65cee9d9c05d63453813052bb96377e6b3dc251a39ffaa46c263ce63ffe4726cec8fc6186bc4e74ed69f5b94fad7e95388d74c4a5ee1c039933d7357fda431d8d64661bd4317c6ef4afc29e6b2e75b1fc0dd922be498690acbb8e870bf0c9bf6b004df2264f12ef2a92ef4094521d9705c640b176520f36419ea6f60bd85ed4195aab89317e1bb7c5569ee50a575c76f7f82ece95d458af5fabd01272c8c40efd63dcbfbfa78567316dc1f2de6a3d5d3bd7111c2ffc133d8c174b2f27e3d5eb67c6cfceb85c8cf0f71dbefb54caaeb69e2c90d6166cf57e6ae665dabe9feee7db67884e3070931692fb18e0a63232c08d07fc2ec96abc668b0af4552fa64c7189e53b339d7e999af991d203ca516041ddf0787e55f5768412c9d10852a405dddf66fbad99b91980b3c3c654c50a01c902a5bc25cd5065dc030b156ac05fe92d0e92cad41a2bc19d44c4beb8c5674a0cb8c0f82ffdf82f9cfb422a55a9ae98b01bc721e9346b6e35269a84f990a64cc018059a05f4824f0d1bba65de4a6de4f6e0aedcd0ddc981f995c04670493452d7e871deeee4267fa183ec25602b5e67ffe82890f877988a79ad3398bc4beddcd0778e09b21fb64711d8a70a4a02971d466e72edd748067ebfb8efa4437909ac7167a5ec58fd3439c6a636e805c4e7ae74a40ee26d57a589dd9e88c65a1371251883da1c7fe592eeac50e44b7a38cf88a8918658fd19e4344ffcbd5af1fe39c77e641099f501d06be2a71a6d6dfb5b2d374896242503a94a2e311d718477c2a29a0ced5bf9b9a43ad5ba68834b01766673927b7d9ed0ebb7ce9049fd7047b7327ac90072ed58612172d2e0932fffc0275169a862affc4efed74a0483a29c6b8b9c2a5af77eaed9daa3e68fe764f055d144077bce9b68da2d6ad643533b9242b0bf43e4b45cd03428b41f11d1947da819861b9c22a3c0b04d8be94fb14ceb257be39db8ff4eab56d973143e99f9cf69916ff88a56efdb8b784c47ed88928d84190ab7881afdabd9cddb0ca1ddbecd18053d46ab6c080d15f9669e43397cb07730371b1574b40f84c942b3d40e4c1b4f0021a93ccc7287f2021ed95e9af111a16ab0e2c494dd55ac6bb3c4508f9c98389854c109940d0494a4f45198534d7d571e53e15996b98c72f257f6b71323ec58353b5ed219acd458525198f8ff3b68786223c73f41b52b9c65f4a3472f3cf888b923d0115e0c29e20118ea7f65aa29d39352d358a2c85f5c9581f3c2feb2bd40347b0d139bbd56100b724b12d51a50cd4bb76346f06ef9ad99aefcaadfa715977f8e322eccfb093f55a1d8f907178e00e8b124cf000f979c1c7f37bda60182bd092f9b7e7edd77913b1aad95418990727f07d5ce2c41073d57201cce89c8a3c63ff66c0c2ca9e96f2737efcef02e6ac6fd0c3c191ebbd5c7d2758cca297879d00b6ed8d360f6349753f3d5b566eb87f292191d1e122b7967e30c58e1e8871d8f21e28badf2d1bb4fe118502cf882cf838521bb8d14c47662c014bc377bfec4677843c87ec2d39948e59f7be27a999941111f240269f8c28d52438c98868c7ac6edf8a5fe1fcfbab2539e0cd3a573ca8f25181f7d5e52b324e596cbeeb52ddd0620117f5051bf9f0dea9fc1e7640f6a84451659569e4a2b8deb1d5d20a9ef352d19d2ad0e90f40c899362254da70ce92101a83ed47fe5e82ea2c623de92b77c46e045029036ee13f80e8bb35e40691f4a188b0c605878bb46de1ce85d78a7af7b5f07f6b1f23b5dbc96dc0b0d66244abd78da9c48290fa41dd7d3fd742d07f21673c1680981abce7add5873d0bd8c1956748864ab632bb6c88ac89d3d8804a0dafce31e96f8ab3900092ff2e7db92eeae567bbb18b66b3b5aaa9757bd2657c93e04997ccb90b6cbd8ca4227cddbed1b2ebbf7d5ea149484a9d441e8b44fc740031473b8564e25d89a3de7f1c4cbdc146243f3ec8bdda662c89f84420a69f056fbafb5dfeceb1036602bb83cc9fec796e22d94992f9d55416a83ad7c3aa0c74c3a0d53d0fd7023efd665e961b813108110cd1b049573d07383402736dec8760d15c055bddc66004318cac708aafb1fe43fca4f1115376c4ee8ff1c4d012f5ac38918bd93eb54b2302c986f59c00a2039b2e94dca5c838735ebe3e3b2c602cd0e661eee31dd429041363cf3f6f9a8e145b0a9eb4816432dc58d15cde90704f2ef27b88e8d725c0748ab32d9d32a5f1829a55ab27f174e68de6b215289f154d8fe2b618503f5d24692a6f2646ad918e73b30f66f28b44b3daad82734468eee96a10f55872f3475b925a4d59c570229d73b22567064869c424ed0941c9725bcdd007972141d3f18156dfb8b66ea52a6bada58ac07962e5d26fdbbf1e579ada8eff67a0464cd7d1a38ec57587d5754fb99d398bb16947e756e1083c79e73a4e4ca7244e48e692bf94a0d54d5af2dde1d9c3f1be15bc4a3f4d2b08ea51b00eec0000071fbc2a3ed3b804a1cd4100aafddf8a0e8cfead297b85db11c005bc61e0ae6bc9fdbc64ec443df60c94778708152101c57a4da0df692f4cc1ddb5a4bd05dfe61b866e0d2c85e49cf3a49cc62c4927670c74fdc904f90bc4978c952b4aedfbf5be2fc36fa3f6b9611651acde9186e620c6ed5398c01fcd8462c8832746bea0eff61e619276284739ae3d57912305e2dc7a0c1ec157d85e8d0783f5bdaa6647bfda9a094afa3204759e9f06bb267b7f1845bb0ac8de05f9f4a912ee283dcfc9b25fa0885e1de1900adc1cf91ad3e96dcb5a108f09259001c9a7774e76bfcff84b4f86f2a5842e9807403de050e5b8737f9f5997016be682d4e4c6a830df3163b57353bd377db8542c513bff0799ef6eafea95c555fe702ec2604670cd6767b47a74726860f058cd5ff8829765c18c17163813de912bc4d21450650e91a11ea32297d3eee1b5f49cc72f0b247d8502f498e4a1861875a138010d5df3cc42f270e683e3ac305c86f994f33fecc2b04ce7d491d127813b3082f27d7de1e4144532b7e7dc75857a6785aef864ee3b15adef2c81e390693a17a37b6bb38d2a79f6f215005dbfe4d690b913b1b8ed62ed3aebadb949b31ef1ef5f963124cffd9602a3b39ea985d182ae6baa48b35c2c8dbbeb59ee396b964f62e3164cb31a0762476856d7f1022ed2fadcf27bda36d9ec0a3dadc56ca295f313fd542c869bb068b1af3860c30df4cbc9f133f42805ab4dca8b345c6af17251ce33dd538f7519963a5782002867f9738f2c0f91aaf46668e7f0f3209991c9648e04982c9ba1b87f6f0b5d25f8277567916dc666a25e41cdc49f07b5bf7855e089fb0906e1378e7fab7056e8467d8eb64bc9e3acf404256825a3952c4500cf36203c61870a42ecd1f03f34f41aaff9431f536c4e60cc03d0aaec36e675ba621a796b02978ae9d7449b99cb4416dc75f8bacbabbae9460a03c20f8ec4bbb5e0da6b38b04993aef89887d826d0934c6a6eb880c68bb5f28f61f7c9cfda22ff18f1ec610fce74af3d701b813ab701a3e541b982769659be7c2ce8c63a8387ac28b07a5ec3bf7b8bd43629df1ef55c46774ea4673765d494f93ec8e095946c436d1a4a775c3c9432b97e6c1ec0c7ca8c296ac8f034b292321372cd01e39214032d6ce3204e48d03241bb04c96078863251097680762c78fc81d247591cbfee30e07f1d36b3e1b1697879ff82e1c534c25c48de70d625455cc528023e41170bb77357f61278216b0c25dc5988631a4c55a6854c04574ac1be5af3dbfdb4812aa1fee8cfd096abc8d55c71ff7b8ef496c60e1ccadfbe321c794c6050a220dd0027c7ede55904b4655c470b875f2b4fb8304e90d6de1ebdc82c6544ee62df07cc4f432aac0c5624fc25d9079412512b4087a8ed5008e62ab300919780f9367c394ad15c58135677f14696613e2485df0ce0a18331d0305b7f1e4e999490dde51e697b832d92f05b853ebd19a45f39976191c0104ecb322c46503b33996255c87b74eac4e0583d091c98f208d12cf6cd405011b1dde4641cf9b096a640b17e7979178dcf036bb12d6d84e4fd42ce885e04e1ee281fad805c59bfd94e5a9d261eb93444c1d51460e7a9d4968737a14c8173d69bab57c24c967ce424c3ce020976d56bcb75b09046cbe613ca3ee5ddf2435e4a68253fad1d329dc832b890fa120ecd64e676824b7929475d1b79430b5e9df53c82f48eac33abe95215d55238d357a6b3aabdd00cfb8711db5beecc6de137082607756f8a073224f3ad3fdb2ac9a463f7bc02f605b580796dba45f4b613f547546865178e1d00bc5193cd95b886507eb47ae3479769f6add5b947f1db853dac73699350c78c75d6d06cce1cfa7f42b078aae0b7669d74a96f78bfe0f9205224e598a8c96ca078e6ae7fea61d5c975f4d1f524bea8b255f3ec0700edd01fddfbad710b5e2705aa4335dfd8f3557e864eefc3926be659952e505c4878f6e771979205e52ca88cb3ac3f013ca182b84dffd9637203a0609cb68101c1370d4e947b7fc85992c8452e774b70e49bb9a0f9b9ef0543c39e23b8ba1c3c83837245209798894edc2e240299cc7869da96fb7bdfc4bea6b4ae00296be49e1e6e9b2a1939d735d751102c20f9e70ad01620e1531e838158fcf654d8ca8657712717af9cc2adbd04299369b3d3418d7a997f22bf9c55600f68dafde87769c973b6d0f01adfca36cba1fb5ad2bf44acb52ed231e3800ad7d2fc7fbde9e53f73d22b8e7fefd2333155f6c70ec57f22bf027db6215cff85d6d9016f83b3fa627c369205435323754dc24b04879281e7318e6baa596aa4b80f4b5096d1e7e911f6599bc3a927cc5c41987384a51176b7033e737a87c2bf167c0cb3a61ad630139f5a577da2fa6f4083c1e3f2bed924f3e22d541ea06d09292bcdaebddad334e9ea7fbc193df553eefc4a86947156c39e2d765b17a710f3f84782170991d8f3a52d391c2a885d50dd6f05829c7750c6443fb3b55c782aa396f2a4e64aa78ce9aae738ab87d5f47b0d16118b732262ccac5981b5274c5eec2c0f1278d7106420d90ec13a1e13aee230790ced07b3b7d770ef6878f5b6f5c4fd939ee73ec0e52bb8f8e8cddfb36da14cda6a61fbe697ad50c6eb34222f7f747d9a8d30337d8ffad9808434e5898970485e07bcccb01f1817ccd2efe0c357b9f6aaf3510f6c111e33167a21c32d516884e0bd94eaccea3f0e412fcbcf82f3799634297e64f9c4dca9bd299f1ef7a125adc1a477d03ec3ba5a892aa980d40279b264ad31099a3e37d643a8b383734b1755be7e86cac4a3cd85e1c8c683567fc4b80871beb79dabb6706793e4b195090fad1dae803afd8049a684656c7d83a1e3a90627b44836f48a92d47aac393544fff973052824eb5cc31098fd5e5cde67be56a08d98d6820e9721db6944728468399de759d4c9d10836e315eaa938cde5c3acfd0ac27bdca8180deec8d3668ae3f22876173891b06cc9485d1f25e51fe4afdc3cc7cfe5c3d0fff2cfea464983bf4847546c9acac9847b81dac200a070d1c92d1917223b969b2933bde3564d4c6fafa36903d139eac557bba56e6333eb6328bec2771d4ae6b943e1c0e327f0495294bbd1687aaaa71e957a9d4b37ab5e10d5609c5e5433d11fea14c60b9ac06b9f49ceb25e4532df5a7d9c76a38f93e8c89155eb83c790b08743bb6f8c70e1750ca48c2e8ff0b2bc0ba70cb5e748951167290317c80c7d89cdbe4805c854978dafb35231ba1c46c8e885e9f49da387ee7b51148101e91585314bfdab1e06b1cb1f0d5e43be741fe3c13e5897e5335f6a6201032d52044f439a07f1cc1ffbea210565c9199447adc009555ed4202b004fd0fba2a50b7a3de2c3a607c985f40f3ea43b5c482d78ea0d452f4ff0a8b6b9d09ea0b0aa2a4b7aea728dbaa97943fea734552c59e897f18dc94a3d944aff3d630bac5c51be9cfc0bff052e25b7e97a3a0c5c8e2e2e78884086688b099a376b5bcf96b7c67f76a65f389770b4a370c45335dc9dfcccac0159022c9f5357c119600e5890f47b641d415b8df8770eb3de5041ada4fcb945cf8e39ace8b79a9c42a42663124c565418561ced6efc7588643fba1e832d179e4bd57646cdfd8ff247b28da76558a27e6cefe0aa212cfe55f8d3014420e42d5d2de14239ffb8b89bb28b9f09abc41b72652e12ad43fce576e9924bca5e09a351eae12542ccf03b203d55f90fd309724082a28c92aea362283e358183c7fa348f066b8c46d7c65af26bea4f503ef2059a8b6813a1842f2e83d7bf4cb47b78834252153d5192ba02ac4f760b3a471d1ff1fed6bc948c6b428b9d048be1ff23d00388776a0bce85d26a449dfb8253817f6582b1df0038c56fc1385e5d4059467248c99d906b551c61975a2628f4329c37913881cdbbb8a384c00aa5f28b4189767b5aede2f0b057a3e2254c371c69102b8d7480bc1d10a054bdee4b84e68f32ad241ab6731dff9f7cc31e05a14e0168f2e6ef8fbb54934dc71ca010f937398f3103f9b0185a3c4ba36b620625b9e9ca8a4a7c0edbc56475e1a7cacb0b7279eedf9ab6bb9942d8c8921a0bc5450cabaa8b1015cf96a8b6d58b90c45e19bd412a7a520ea3041223a7e9e38b483e8c612af0d03d7c740247b82f934ee8253054a5a147605b3f3733be51dc742cbbd8d69b7a547cb40c1b7fca8d6f06aa9a35c03882caee9ea868280860d5c2f3929ac0fc0556c3f8e9993d6d4c77c9ba124c49a5fb707d6afc45599e0ae1692f918a3d7e5aaf032879f8953c71111f848ae2a04a49f81350bba728493af6790418c48010794172ad040a4488fc4fa86008e376825f2f5c8c8011ab0e3f9c96092bb62dbf9928c97d3eda174eebeb106377b72ae2c7abdd8ede318995ef8eff92a0d0c18ff1094fb0d22726c951073cfeb03d7efef150218335c9e3c93c4e44b655345dfaaa8742eaf773793ffeb8031da13cd3ce8621fc1ac86a52cd9568772a98cc92d3c4a35036ad4f29dc23bd8314b63c8984b
+
+import static java.lang.Math.PI;
+import java.util.Scanner;
+
+
+/**
+ * @author hryzx
+ */
+public class perhitunganBidang {
+    public static void main(String[] args) {
+        int menuDimensi, menuBangun;
+        double K, L, V;
+        
+        Scanner in = new Scanner(System.in);
+        System.out.println("-----Menu-----"+
+                           "\n1. 2 Dimensi"+
+                           "\n2. 3 Dimensi"+
+                           "\n--------------");
+        System.out.println("Masukkan menu pilihan Anda (1/2):");
+        menuDimensi = in.nextInt();
+        switch (menuDimensi) {
+            case 1:
+                System.out.println("-----Menu 2 Dimensi-----"+
+                                   "\n1. Lingkaran"+
+                                   "\n2. Persegi"+
+                                   "\n3. Persegi Panjang"+
+                                   "\n----------------------");
+                System.out.println("Masukkan menu pilihan Anda (1-3):");
+                menuBangun = in.nextInt();
+                switch (menuBangun) {
+                    case 1:
+                        /*
+                        lingkaran
+                        K=PI*r*2
+                        L=PI*r^2
+                        */
+                        
+                        System.out.println("Masukkan jari-jari:");
+                        double r = in.nextDouble();
+                        K = PI*r*2;
+                        L = PI*r*r;
+                        System.out.println("Lingkaran dengan r="+r+
+                                           " memiliki K="+K+
+                                           " dan L="+L);
+                        break;
+                    case 2:
+                        /*
+                        persegi
+                        K=4*s
+                        L=s*s
+                        */
+                        
+                        System.out.println("Masukkan sisi:");
+                        double s = in.nextDouble();
+                        K = 4*s;
+                        L = s*s;
+                        System.out.println("Persegi dengan s="+s+
+                                           " memiliki K="+K+
+                                           " dan L="+L);
+                        break;
+                    case 3:
+                        /*
+                        persegi panjang
+                        K=2*(p+l)
+                        L=p*l
+                        */
+                        
+                        System.out.println("Masukkan panjang:");
+                        double p = in.nextDouble();
+                        System.out.println("Masukkan lebar:");
+                        double l = in.nextDouble();
+                        K = 2*(p+l);
+                        L = p*l;
+                        System.out.println("Persegi panjang dengan p="+p+
+                                           " dan l="+l+
+                                           " memiliki K="+K+
+                                           " dan L="+L);
+                        break;
+                    default:
+                        break;
+                }
+                break;
+            case 2:
+                System.out.println("-----Menu 3 Dimensi-----"+
+                                   "\n1. Tabung"+
+                                   "\n2. Kubus"+
+                                   "\n3. Balok"+
+                                   "\n----------------------");
+                System.out.println("Masukkan menu pilihan Anda (1-3):");
+                menuBangun = in.nextInt();
+                switch (menuBangun) {
+                    case 1:
+                        /*
+                        tabung
+                        L=2*PI*r*(r+t)
+                        V=PI*r*r*t
+                        */
+                        
+                        System.out.println("Masukkan jari-jari:");
+                        double r = in.nextDouble();
+                        System.out.println("Masukkan tinggi:");
+                        double t = in.nextDouble();
+                        L=2*PI*r*(r+t);
+                        V=PI*r*r*t;
+                        System.out.println("Tabung dengan r="+r+
+                                           " dan t="+t+
+                                           " memiliki L="+L+
+                                           " dan V="+V);
+                        break;
+                    case 2:
+                        /*
+                        kubus
+                        L=6*s*s
+                        V=s*s*s
+                        */
+                        
+                        System.out.println("Masukkan sisi:");
+                        double s = in.nextDouble();
+                        L=6*s*s;
+                        V=s*s*s;
+                        System.out.println("Kubus dengan s="+s+
+                                           " memiliki L="+L+
+                                           " dan V="+V);
+                        break;
+                    case 3:
+                        /*
+                        balok
+                        L=2*((p*l)+(p*ti)+(l*ti))
+                        V=p*l*ti
+                        */
+                        
+                        System.out.println("Masukkan panjang:");
+                        double p = in.nextDouble();
+                        System.out.println("Masukkan lebar:");
+                        double l = in.nextDouble();
+                        System.out.println("Masukkan tinggi:");
+                        double ti = in.nextDouble();
+                        L=2*((p*l)+(p*ti)+(l*ti));
+                        V=p*l*ti;
+                        System.out.println("Persegi panjang dengan p="+p+
+                                           ", l="+l+
+                                           ", dan t="+ti+
+                                           " memiliki L="+L+
+                                           " dan V="+V);
+                        break;
+                    default:
+                        break;
+                }
+                break;
+            default:
+                System.out.println("Menu yang Anda masukkan salah.");
+                break;
+        }
+    }
+}
