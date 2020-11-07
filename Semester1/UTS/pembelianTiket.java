@@ -1,1 +1,110 @@
-61760e93b73d03f94ab66ddd6eea14929174d1ef3504387449c28db3e7f4cfa546a6356a538b86ead69f0f52651e317d86b729aae36118e0d7918723d41c39d954a3bcdbc9f1ea8c1eb32d449c4458082a42592623b42b2214892ca4fef993cd4b4f2b43cb849555a0c22b9ab024a6ee23517b7f8f3ceb7269750549795803a7927c92a2312d3386f78cf7105544d0fbb005967a4ee427095a3cd802581ee59d3315c37bbd4652f13a20ca9daa066895f012dfd868bfb1e88275ff9f4f306428fd00dd9d9bacd388fcc88f82849ff77d9c65111bff9b8c9618c3079ad42f7143428555d2979761af7d88e725032a5013f050dc50c523c39fc2afd5e5ac782f31bbb97741c9ac1ecaaa0dbc800e120a7eb8ddc1be333462434c87b1b8bb4e42163afa3f7b41df9ab899c907bd23b2da230e83b0212028e748d5e6a1a7152762af664a7a582bc1b11be4324fbf3b7dbace8f7551aae487da7a28bc5e8384ccef3c61201934ad837ff4450bd618b6ca5c120bb4433a339e7dd2e2b5b93ff25e8159ae68f6b369757a0d34a410c752ba8f31c11ac8fabc41a2e6576d79c2552fc8fd2d70e4fc304ffdfd7c7c0cf2991f8eed93c9febb66a78333e5caab7d423d459dda13eb5dcd932575f795dbf5598c334c6a0797d0f223d7d2b1f82c5626edab204fdba877f1ea53d65835988cb89524f3d7f5149d9af940024e572caedbed3e8fdaa82dcd7c91f38f4ad1b376fc46517d06a6c6250c71cae12a98c084f6f757d9585e6e6f923bac504cd4605bde06f07913526f8758f0d3ad5ae79b8cbbdd98307367b59ad5215044a2a443791da8958305fd4a6e7cb8bdfedbac64607b716abdf73265cacad83d2275132becf090de635bcb78d8b559b09ef0ff784d983d1ee96c2172ba569b3067d39eedc5bd92782c6f9565617028b7b638c402b2496674567c76a46fa82fd5dc480cd490565e890042af8e4086e6aca60155e25401b54d4f2ccd8abdb555f750863bcf85d4d975812a2274fee4f6153f7de2bab80ae6b9de20b2e101deb5fc98b2dcf3f583e73091814e6c1d2940f48e1b4be7bc555455ff9386adaf4a52db2fec581790227e035c45368d392109c4bd35e774c3cf93d1dfaf248bec023d0fe9b5b8ccd1acdbfe7379dbeef9da66b25fcd4b42ec4edb92bdb20ae7297c31d80c3305cb95ce075cd2e8ad37711b3771380593ef3339dc26cd21c387cf965a75cf525b49ba9bec134d7f128d2d430ae387a29244770960a57fc3229486df402acc7591b5b5dd92a36373ade4bdb533adf43eb1209f960a6f1c8abb36083cee11d4ac1ff34b53c94390507c036076a7f30b9b36f831e5a30f665b7ff692399a0fd8ca46a69ba45ab681c33790d94e60101561e8329ac10bcf763417984588076c1fbbd24d50a15a14e30e87c7166bac74e048ebec8777737a91117278626a809c23bac19e4a60a81951367c443b4207c762232052e14de6bfdbeeb811cd3a9ca3a6f1d863c153e1dc8eec616afa803633992386fde929fdf6d002c0f6c8fd20ae29e479590a427aba46bc2e9daf99ce550cbd4e815b77675568201178e196cf662f3a69487fc1b0c6473428b4c10303a50e15d635c7a7b2f74961db9b2aafcc7cef65fae01620ef65cc6b9f61924f69caf3ef15e04615d2241725c94e8fd831fd1819bc21da5f05108fc19518fd713eddfff87c63b0f9f5263084a80bc726b288eaf9e814ebfdaeb32347a15fa48e8df2676c80883a6b227e72f0a8628a21667662a67e066b4e7d380bfe8411296f67546fd148fe1dffb93f183aaa68454345f5a5a7d7c35610cfad5d0ca0565be9894b5721236d1d9a37b5a1509984a0c099207488c4cb02751270fc4f09f1583cabb7bb7466c7cf68c54145d0eb75b6f135ac080a6fa2650457a225f8cc209802df02732888b3829738f70b0df4ddf5b528366cec9eac2e2d19894ff4b7282a19d01b658921aa915f863abc8ba92314e27f3506b38cfedadc240345c610410d592b0650cdeeafaa933158d78eff2f905501eca0385aa59d6d6ad6ac1841f1bd39e7fbe7728dd3088bc8c33e24c23f1903b4d9cacb87e0821546c9ef1911edcef989d202a74701b9180803417423c43a0a022b3da31cfd7f24745731c40553879756b9469d8ad34a71d37192457dc2393ce5910410fba992fb2226f03e86197f21f255b6fbba3cfa80e8b71ad5db89e31b44db1ecd1da206e77f0bcd49d87f00d06fa898aab687ff6f2cbf0ec4f6a5cbc6ed3bb74b93dec77b41779783bd63a9b368ce80bc66f12a64348589e3f3fd9c3b6edd1347db5077a3e8af276ac7f9e768adb0f81b7e8f44006bc41d339725008b61732e95471df60231aaf548c54639f480efc2c45515b9b2fafa6676d00dbb94af52b5e6ebc6ef40987ea029eab98a41a931a63dd963fe9faed053d321a6b168c3cbde1b715d2b0177f4168676379d992226b3950f15a86b9bc0a281d0dd1123aa0937963e16be56071f6c2987a72be01efd28d9a7d10b47ef1ab99e1910396f3fac456a7b0c7d27750283ca717d88acfcf3451c07f3b988c47518d546ed911ab3e6a3e99f5a3611b726a2643e59aeb900ff96f8a7cb43a977fb6a785acba516662bd4b5fa8e3cdeba00a20702580bc7d49894983e9e7b4ae62e21838caf30aef2df1fc78bd995bf503ca128a4e85e2fca0aea8e397952cbfd6514570634d7674690541934b64a59d04bc38fec09e6a9f5ffacfe2b738be9c171e89344061439bc190b69e0e75719c1affa1c57cb2bcc261c28264341fc38dcf5eb92e18d8bef5196bb4d61faf3767e04c682bffa39c2c9eaa188ebd55aa6ca221035d36f30b57fac7d49a48c79b74f3669d0dfd5961e585e31219ba51792d1fadb4bb32288754bda89231db2b3cbdf52182e1f7b19bfc91f32d14279711f567166aa7fe063d2396133ecb1e5c544804793a34b12c4efba35e16bfc4f4a5c5b74cd09dc94f137d36b3f214f7c299a748537b6af6e2fdbad827050cb511a24ebe17dbc5a27ad5621da91afc3554c0400d4bfe85b9b67b9d788a555ac0e26615d445ad019c77cbda531a84016bf74b9035c888fb3641018c7d469c704ba3c33c8e22a3486886ef30d8b5a2bdf253091fea9474aabffdbfe2e09ad5ec74907e608d39556ae4dc500c8b27a2040cc1a6a970c4f7d70bd8fc0654f11f6567c15e54be1a121542bd588a1c57cd87b976e6ba9d9bc0ad03b000e9b66d5530fb140eb5eca4ce8007c5e3c5dc448e6c0e28463db51203be26a148881506dd50f15b476b68752ae879ae0e30475c9fcd9fdc59f07a1022b0a07bdfb2b53e0e85e6919c1b6fca45f5fcca50f618d6a727ccfc048b56c0b6c3d4176f08674a2ebe56b10b8f85bd0967f411e52aadf755c54dcdca8abd2a5fb1b22befe0569ef3448501e34491cb6d3f94e6262bc64f78b25f4ddfaec3867742c40f4fe952175fbe9684957f913a44d96b836d9f5e70fc9e47d37c4d1e67c73cfffab3c2314861b2856547a8937eab84d5a7cee01692d44d9653e647c6d08f663054a1e9e9a00057e3409d481719647f156ffb3884b9327d2f78a7ae036569835477afc1ef3ba672f3b04efc46dff7bba2f3a365dfeb5bdc697babd10d00e94b7f8f7e427b0230b57b62e08701929a2fb15e7f2b431b32e148b2c8ddb2963c06661fb6c708d19d0da85fc5261f3a54cb9d5839f31f762d018801f4842ac5b43345b58f668f01e1aee2568816d2c76c05594589ec23a5e623b4a693a7e7699d033d8c2fa58f84c1e8441df1baf93c0160ed7be52ac292a1346b28083b0b3c9075584182ed5ac8219fcd50d59bc2885def0281cec8d1bd346dc7a4743b1eb74cc43eaf3664fb5c222e017ce4cf5329972394feaf771212e5d0cdb0b4790905115103cca0f08388802de58ebed9f15de12b38976ba633bd977f23db161dbed796fcd84d13269689b34a0e817aa142f2bbb35d46a10ec561ad9d3f49da1f94cf4f1bc07426e0e43092f56939f80bd2b54a5948ed609ebe8cd9a7b27fb41fab81251dd73a6581011c5b6ac5a007e737e39b30895d1c3f904bb8a0a976cd5c497e6e6ea6c14555c9708108a6ca7dd85f3ac0b7ec3e11b41448bf4aed524e1b850a66e68f4d28cc2a2112e4e3d33152e205904a88216351eeabbd4b1aafa67253d00433e85caae3f51e86bbe2317ac34cda5d71a3f8e1c21e922336d629073caeb20e95becf25990a70ea9fd0c182cf4e53959144e4803d6ed23d574e317581d7c5d130a1948832ba8a1024d9129c495fe3acd2032253e2d19957f7d3e6d9ea63dd96cb6fac978016225849dd48e6d1b3908f5e6b2388d86e1319c7ea46453df1789360322157167cf1fcad822696406afce23e7fae8f4cff248acf0096305377b1cddb8f540668dc0b257a313e72ed198dbe840a3ed8e976929131d973d564b1f20c2037f4e4c1d60e89cf0c1c2637a19bacfb26ecc1a1fe7c44f984b9a0245fa5b10d14c969506bfbe0308b2c34e500ead0a1718d2ed7c164bd4ce2f0318bcb8408a79d30986159284438aaaef208b5109f53d5b1af09797f7bb30cfdc4465a105b188599da5d71b17db5563c8e5f4d6a564a2bdcbe0fabf85403ff454d95c418a571d6e886533a5b71f0c815733bfe2de6acb3349fd95646e2fb18aa95a8ea74fad86d0f4a9f465631c2db083510364e9800434ed2488d8a69e3c4d54e236c92a4a72a13db665ccad58f60802bf3d581fc893f8dfb00c8c7cd7b6e257e1b1ab17410e0ea090544cce7385e09f4a9381819ef52b18f38d105127b4180d85b3f3c825e0a2ffa3a6ed3af0d5d862170cf744c14a61859d139a0f15de6a0acceb7707afc27998e799ac569a80c7d90d9906bc6baf989e4269ff84b885ed0fd62b96fd69e1924b9fb7c1c0430095047cbdf2be4c5c251fef814e93d9b12f99a347540d2f1d42234722363d028ee110366d875952c7388978a46b83b6898d47606bdf9ea3abc313a1431ae7774d41a681ec5274070f6ffe5ec4acb13b1fb563f441fcd0b9894545ddc14a68d42576490f24cb240f552aba5d5597b647a13ca8e25fd4e444032dfce844975cdf450bf4a3e0c1eb473bbbe595ed4e49a4f9003c8c1883ec94d43d7059b8cf0be19dbb6f79b150f57e13979523ac9091462424570caf74513e79708dd006bbf4da3f5e600dc5f1148bf3db4df3d3b6fa4eaaa25c31a5487fa66b1252422dd922d1c82c30b7f7642b75762a6d6a2b1a2295d6219ea570bfaabf9a916b46df0cb8f8b66a655e79ea34febabf89001359663fe754ed85ec2539f41a61f7ffa53886a54942831d754e2bd5d5ea0118752acbf36d882eed089f19fe7224b68f9af7f17cddc55192a86eb4e5b8b619e70ec26b8b071d8dd38597a43c3bb7518f92cd7a99dd07a0edb379f7cfcd92146d171dc6d71ff7ed5419692d378744f46fba6cf1d78918c41b818988ee1c09bdddb414b1e52a6cf27171ce7c69d0063afa3530f91cdb1c9890772104641d0a4c5ad9d113c87b8d80ad7fa8d1e83725fb03022b443336545e110a861b0ec0b482ff8c07f9b0760ea6fcef16e2c4c8712bb09164cc5c093e6afc1bf877d2dad53d5bad016f1f11a9ed998ef4df735227d5ac19084639ef4c4cee51ebfd1775036e99ca75cdfdea13117aa92aa80d99ccd2f9eb490efba59c5924105ef288981a7b3f79fda9656008d03ceb7824ec10308ad11b5c88eaf9da1832957803c7486dca3544d66547449174d35398340ef62cb207a86fad16a578d3d71482664f664a1e37615300e618e1a75e265b8fb7724637c2591be016c21c0bb654a40324c8893907518346566b3619843ffb9b2c98d03909fcf3f1e5044d59062679171920fc1f8d63477e73308d80ff1445cb3140820de30c6dfe8fbd0253cbb08e392050cd5e455211f05570e9483e55766c1a2c03871bd6d7977c8370285d94cc12de6892270e6394b93c974443e5d58c887e9126edb04060f8818e8e347f623f19f44675b2007ce7b0baab335ba98c4f222e3b17d968aaacf476bcbb73d3450413426a43214f9496efa619bb635265049530cc178bea1ec3737154c6d17c34efefa4b7897162a533193f21c45d54df8343e061774445c754c8b4cfe40a0963be6202f58c682b44a41f0c17d0ec4a462407a837a9c7bb0b584cb66a84bdc9bb1e59529870f36217bb305d8ee9a6fbdb09a043e32fed0524a5dc9d41a4c0b9f0696fe65e59359474e3b0a4e67379869a9f39ff49a77f87b1fd17fc6136b5fd1b7d2c3df464e351b7c990179ee4aa9d457de74553cf63b32daeb13da67f301cc7999af193b675e8bf9f60f723c8cba45134a0e26658945122d85a7c92e09ad9088138f1317a94c3482f565cc6815710ba492e58fa19d050dd92ea16e6c3be1515eeed3abb90cc205e5f2e2f82b2925bb32170f80961e881218c529dbad4a4b040e7aeb280d42a9424dee56e51834a53db548dcd4878fd1ffa9977a6106a7e0ed7064493d5f55e25e814be992545501115001d665bf129fc3264049a622e6f77b6280ab37b0af8dee83dded7774cbb91c5a2d08a039ded3a35d13d05aef89a07d7e6b749c9bcdb6186286042bfb15bcc33e44d6ca785383d7b0e83f2e3a2cd04c1dea4fda11b557dda137c9220e2dfb12a7207d325d229ba7d1c3b5d546e13e8fd7ef39928d9284872080f4678ec1030b4a14de074575c0ad3b9aa7d1c829aa9972d406a47832e10effe8fc30e5f4d7a7e109e2b1d2e829bc7b0fd5dcc15b076f13232543d3e3aa45956892a357ca51a424fb0f4b11652d7bb876b8cbeba4e7058f7b2743eb762cf922e12acce9478fbd69b6ce3c81d162976244d11300a7535340d9f77169b39369abe6e623eb2f2c70e70ff78a88da8f466aa021d1caeef6452fc74dc3a1efb75739a5040d77282704e8f5477113a4900e628f23b1acd1d17775de39945d9718904d0dec7f48971c2a96c828204a2a18dde116fab5b9206475f9ab2e23fed51449607c247b06d3eff89618434f0e35b0aaec3b4ce45c556001befba34dd4a335b3882215f1c4c02b6f416327f6584ed37c49557f317a0612d97d3637d196ae49d46d71fe63136b2e673d38a637d0d6035db243940127d06e81dc2867e5b787ccb821755639fa3b0f01ea800c13b6958824e63fa2812da259c7140f581e9ae17b08acb0e74f1910c50d2a4c4fbe5eb01254842a504352708048df751ce85fd6f3be8adbc3083c32e3f75ffb04c5a814a9e1ec05b42d10cd861368b449938046632c2785f642b744b4af4e32431cfb0336cd4b509a8b5b5af32aedbd470d5994f84029b065497bf27e10562974ffbf3770e9ecaef693a61b0a00872db4d554161254e1af30362a8c1bb837a3bb0dcc41fb63f14398d3e1b988abb176a703356b71bdc95efa2ef901ae5fc99c72c048011165b63077e5b422abcbaff758e557f70620951557e0a7f4abc9357b558be8a8d4c6ed70dd6d164dbd60ed853f733066d405a516e767f588f0ad7d33045d16894b7123729a63db0146432c9f3f58641976569d3712878d52ff625cd9b8f635ac425dc149c88fb142895ce2ae384bd452c51950109d855621ebfea11416ed5863d79ed2b365b561f3e5685ef6cf56fcf451f20365651a1e0b291e3a8ec
+
+import java.util.Scanner;
+
+/**
+ * @author hryzx
+ */
+public class pembelianTiket {
+    public static void main(String[] args) {
+        int jenisTiket, jenisHari,
+                tiketJPark1, tiketJPark2, tiketEGPark,
+                tiketPaket1, tiketPaket2;
+        double totalBeli, totalDiskon, totalBayar,
+                jPark1 = 100000, 
+                jPark2 = 120000, 
+                egPark = 70000,
+                paket1 = 110000,
+                paket2 = 130000;
+        
+        Scanner in = new Scanner(System.in);
+        System.out.println("-----Jenis Tiket-----"+
+                           "\n1. Tiket Reguler"+
+                           "\n2. Tiket Terusan"+
+                           "\n---------------------");
+        System.out.println("Masukkan jenis tiket (1/2):");
+        jenisTiket = in.nextInt();
+        if (jenisTiket == 1 || jenisTiket == 2) {
+            System.out.println("-----Jenis Hari-----"+
+                               "\n1. Weekday"+
+                               "\n2. Weekend"+
+                               "\n--------------------");
+            System.out.println("Masukkan jenis hari (1/2):");
+            jenisHari = in.nextInt();
+            if (jenisTiket == 1 && (jenisHari == 1 || jenisHari == 2)) {
+                if (jenisHari == 1) {
+                    jPark1 -= jPark1 * 3/10;
+                    jPark2 -= jPark2 * 3/10;
+                    egPark -= egPark * 3/10;
+                }
+                System.out.println("-----Harga Tiket Reguler-----"+
+                                   "\n1. Jatim Park 1\t\t"+jPark1+
+                                   "\n2. Jatim Park 2\t\t"+jPark2+
+                                   "\n3. Eco Green Park\t"+egPark+
+                                   "\n-----------------------------");
+                System.out.println("Masukkan jumlah pembelian tiket Jatim Park 1:");
+                tiketJPark1 = in.nextInt();
+                System.out.println("Masukkan jumlah pembelian tiket Jatim Park 2:");
+                tiketJPark2 = in.nextInt();
+                System.out.println("Masukkan jumlah pembelian tiket Eco Green Park:");
+                tiketEGPark = in.nextInt();
+                
+                totalBeli = (tiketJPark1 * jPark1) + (tiketJPark2 * jPark2) + (tiketEGPark * egPark);
+                if (totalBeli >= 500000 && totalBeli < 1000000) {
+                    totalDiskon = totalBeli * 5/100;
+                } else if (totalBeli >= 1000000) {
+                    totalDiskon = totalBeli * 1/10;
+                } else {
+                    totalDiskon = 0;
+                }
+                totalBayar = totalBeli - totalDiskon;
+                
+                System.out.println(tiketJPark1 + " Jatim Park 1\t\t@" + jPark1 + "\n" +
+                                   tiketJPark2 + " Jatim Park 2\t\t@" + jPark2 + "\n" +
+                                   tiketEGPark + " Eco Green Park\t@" + egPark + "\n" +
+                                   "-----------------------------" +
+                                   "\nTotal Pembelian:\t" + totalBeli +
+                                   "\nTotal Diskon:\t\t-" + totalDiskon +
+                                   "\n-----------------------------" +
+                                   "\nTotal Pembayaran:\t" + totalBayar);
+            } else if (jenisTiket == 2 && (jenisHari == 1 || jenisHari == 2)) {
+                if (jenisHari == 1) {
+                    paket1 -= paket1 * 3/10;
+                    paket2 -= paket2 * 3/10;
+                }
+                System.out.println("----------Harga Tiket Terusan----------"+
+                                   "\n1. Paket 1\t\t\t"+paket1+
+                                   "\n   Jatim Park 1 & Predator Fun Park"+
+                                   "\n2. Paket 2\t\t\t"+paket2+
+                                   "\n   Jatim Park 1 & Eco Green Park"+
+                                   "\n---------------------------------------");
+                System.out.println("Masukkan jumlah pembelian tiket Paket 1:");
+                tiketPaket1 = in.nextInt();
+                System.out.println("Masukkan jumlah pembelian tiket Paket 2:");
+                tiketPaket2 = in.nextInt();
+                
+                totalBeli = (tiketPaket1 * paket1) + (tiketPaket2 * paket2);
+                if (totalBeli >= 500000 && totalBeli < 1000000) {
+                    totalDiskon = totalBeli * 5/100;
+                } else if (totalBeli >= 1000000) {
+                    totalDiskon = totalBeli * 1/10;
+                } else {
+                    totalDiskon = 0;
+                }
+                totalBayar = totalBeli - totalDiskon;
+                
+                System.out.println(tiketPaket1 + " Paket 1\t@" + paket1 + "\n" +
+                                   tiketPaket1 + " Paket 2\t@" + paket2 + "\n" +
+                                   "-----------------------------" +
+                                   "\nTotal Pembelian:\t" + totalBeli +
+                                   "\nTotal Diskon:\t-" + totalDiskon +
+                                   "\n-----------------------------" +
+                                   "\nTotal Pembayaran:\t" + totalBayar);
+                
+            } else {
+                System.out.println("Angka yang Anda masukkan salah!");
+            }
+        } else {
+            System.out.println("Angka yang Anda masukkan salah!");
+        }
+    }
+}
