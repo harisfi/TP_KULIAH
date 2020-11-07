@@ -1,1 +1,71 @@
-b219c7c38b014921adc41c287d9aed200e613f1fbbc3a08edbf2e617aeaa9a2272dfb8a2392f1e28d7c985346b4645c67245c58d3a7f79eb8bcc734f49374af78bd525db2e3d3ae252ded769486b82cd48ac07abb99af4bcaaf5f22d10ba1cdea6ee4b85c420b65230a6694afcd187c0ccae821e05e067737cd848a8b07d4f44e914b24747da84e23ec0412ff3c5d863f7b11d3dd3b099009e717443264ab611dc12441e333854a07543d0e0db4beb8dd1066a90fafc8eb0c7437f7f6830946256de9175a104d4449feecd06d32db03f44b1b7f71cab0c4618995f4f4247813254ad4e7d39219b8d892b5e88378617306bef53ac5b3360fd3857c232868d768521834bfc57ca323db1f15a4716a313fa92cc2b8648b0b986ea0d1182a5a7aafd0ad40f8daf0a2b472fdd84f57b99a00094a52d910554f4337e0f1c979af5c4ee6f746b5a8ac06b863447a5d99dbc6e18b95f22d7d222d38ef031ff0f5fa5bf0f3882fe0e2da5100a62f1e7839d3a7627f10054ea8feec849d06b91e88a0aabdbcd57f339ebef08d9d4870c67bd081e64779ebc069164433d7bba3e7e4a273863cbd04b3c07c902150d0e534a099e0022d7dde39c245a065ace8c077cbe879dc95adcd1463a5ac9365379accf45ca4cd09c20499376a441082a5ba9738998f9a3e50d4cb51f3811b58dd066f61113c93713f31f4f7a0caca454b0cfa26332c503cf8f0ff3e44da0311c3950adcfe8916646598d4f30ac4825a414ea3cb2d9a7a2ab542ce6e933c020b52ac6808a0eb4cfb60532b5d23dcdd1927aeb86831e14657e5ae207b090da42fa597099bba37c8778c28ed9b628d5be6201a183cb88976abd8ca4c3492f8b49e3e4241e8dc7ec8b90ffb881a6b57c6f424d5b7cfbcc818531188953ed8374dc002672f5c7bc6ac47ab2dfeaf0d4c2e9bbf945e0f03017c57f48925435366ce9b0e5ffa4691ed24bc2a98750bf0a926b81c0b5eff418269194fe21e905f5efe1324f687d168ef939f2adc3c3282ad51138295732a49a3dff8bb0b84d596eea1ad2490c0c44ee2fb89e032fa42a1a211893a3820a022b4415bdbe1636212afbe180d334683b81925498a86575cbe7d7f0499899d68f47f5daa4ed02ff2bf31383e795f0b31bd33a8e810f82d92c9d30050119fee11848da7c9c689a5a52765162de92ddc6484fd2b36b36b9f601ead8a2430ddc5e81250de245cb8c9d1c55c8b10f9130a0e98a5fbe245e080320f26120e7d749b8b329edcd6319c1993c57a641ed22f1d524852eb5ba2bc9a934cbea53079e2b4571511f9ce9967b4b7e5546c87fa04492d18c1867e68bcb7f0eb5f72f33429b27f1708598b843df87f6b3c2dfaa05eb7977cd52f9d6ddddb34aed826a5c9fc6f7d29cf33db2e925daca396d519d8b3095181b6832145f2a8d296d19f21e20c07eb21af9f23f0060e49b8e0534332290eb7b1d3972ac9ace7357d229f1e46e11d761d07676f260ca4356c46b250fbbf9b8b67327717355a7b217ceb0bf30b577ce68f631f51a64b933724836314ca0de380da6c1064420e2d5dc806565b4fbf617184882627901c48af4767a18d6175d4312aca9297567dce7fd610962bb7ccd40f0f1dac84a44a2d9cb3e0c51cadb3c140d5797f2c4cb58873c4f3ce6faef44623ce25b6aa8f9985e247fb54c2151e0182dc7b205c7172002fe470c79057ebe5ad994a6adceaa94eb569b7d3cdbec304396e255fe6236394be9770252b2a4d4cba83aa9ae16907f6698825b53c75ef5b79c05d63453ab3052bb96377e6b3dc251edf4b5ea3a636eb576850e5bced58f2ccec20b39e326a0ed41fd2cdc76d9658ae8a02207ca2fda7636da022c854b2f089e673b2eeeabcd85496034cab570d93ea3499e80a5b2d5ad0bf0c9bf6b004df2260b5dba68deaa408e0752c20af3078233175b506cc0e6a164d057cf335aab89317e1bb7c5569ee50a193739b9ae6b9cc69d23e622c0cd0f61b6b81f8569cea495a78567316dc1f2de373d187784541c66ba1b35c25630665a8fcbf670a6afc4ec50dee3935cc5b229cab2ab9e3b85df1f37df7e6ae665dabe9feee7db14d11d6435de5088fc19a88d29068ec44bb044c91ddf28cc41b5076ee84c35ccab7c72d37ecbc990d5ce5ea5033308a6b9057e48f5659f38c9d10852a405dddf66fbad99e419c5ff9083548c4c09c14ce4c76cb0507bdc171e512f8b10a56c0b9ab1f67a29d6eb4ff9aeb1cc3c600cb8c0f82ffdf82f9cfb422a55a9ae98f84e9574af4f2213353b9a869a9ba457ea18059a05f4804f495af465b2576fef9aa7deb99e8b8cd3aadcbb0f0d492952c5e664c5c4e4267fa183ec2522791b26b4ae02d5b424dd8a30eb3b90f20a9695ad779009a40fbf04568de2021659c6543b6e6ef0d75e1377b6e3c5a4437909ac7167a5ec58fd3436cc8c36a05096b2e80fed73e27057a7eadf85a2c65a13712518838a592db6d7a9e57ae405117781deedc3d5118650993452fcaf41dbfe39c77e647b84e10b8341e2fa1a2821a81e2d7e0e9e2c6b42d203533103719162cba2f017be59e4d2df73a8ba749e4b17666f7ac9517d9ed0ebb7ce9049fd7047bd3d50c9003ab80a3467099b9d9332ffc2435a6bb348affc4efed7600483a29c6b8b9c2a5af730c59694f5a3ddb42d8b1cac441a0886c629844a6499160735c210f9f117a8fa09d21c25b40f5ad3933ba0048e339c45a1d7ab729be04fb74aeb2d35a2e6f1824eb74bd966013790a2e569912bb7df14a39e8b2b4c5aedc1dc83820900b6aa2ee1949595d307def5a5e718053d46ab6c080d15f9669e43397cb0395b785543318d5cd0b21fc48708660a542a21a93ccc7287f2021ed95e9aac11e426e3a7c4cff739ac76b3975adc87b2389854c109940d4cc1f6a117e31a307d4a1e51845b8d938c01ab04a2f25e2da30d61350e8050e2ce7f5317cccde83a72463517c76604eb77f72bf4f05a2d37ab839323d011032629e20118ea7f65aa29d393529a16ac861a04c1edba8cbbbab45b1e7b0d139bbd56100b2f6112d71a1d8806fe2f25bb27f9c684acf7c19ddd5e97628e3a268290467103e48aaa4e6c9e7de8bb249c4b5cec8c617637b6a609ccd64661cd3b2c8e3eea2a65addb0094db4d1914a3ab2c5a223d5f73579df2d8dec634f63f477fd2f8122e2cc5cef02e6a84af497d780591d5c7d2758cca5a212a844e23d69c35a23ac701bad8a079e08fe3853e10131f26746aee0133899b8a10822cef86a0ffdcb64dea325f26d282cf838521bb8d14c47662c014bc377bfec4677843c87ec281a054d89b71ea60c9da04151f27042eb0918678438c98868c7ac6edf8a5fe1fcfbab2539e0cd3a518d79d2f104f761027d74a8cfbd1eeb726934f6d7c37035a959f0dea9fc1e7640f6ae85846531ab44a2b8deb1d5d20a9ef352d19d0d1409df901e7da2e6404a76ba75f40a8558133aca966afcb2edc999d7c46e045029036ee13f8248bb35e40691f4a188b0c605878bb46de1e941315e6fb3a5f3ffaaeef3f58b292cc52122c7601f861d7860b7e2e9e5eff93b4356b05a90476d85257bbbace7ac63c3a9cfcc5035676832aea183bcbc388c8953f834cf588a9a521c9d0e2774c0b74d8fadbdba0a0183ee34cd2246e18e6d25fb43d7dc93e04997ccb90b6c9a4842f66999aed507bf7be94a214dfb2fd950fadfb4ac554035176a664110c9fd635ed9e8ecbc20c5213c0e7c591e46dd3c9c7020b43f25db5eecece91e012366829b3749cac92d0993ce9922d94130515c1e1393aecc7513a441ddeb3357bbbb22abc23f45618880be71b04970f9e7e8e4d2a3bd3c5184459811cbdb5166b4e15c7a105baf60fe51d9a445d1c2c464ee8ff1c4d012f5ac38918bd93eb54b2302c986f59c2766e3cc29f579a54c4d54fa0eaf898c602cd0e3b34b3
+
+import java.util.Scanner;
+
+/**
+ * @author hryzx
+ */
+public class nilaiAkhir {
+    public static void main(String[] args) {
+        String namaMhs, nimMhs;
+        String[] matkul = new String[2], huruf = new String[2];
+        double[] sks = new double[2], na = new double[2], nKonversi = new double[2];
+        double ipk;
+        
+        Scanner in = new Scanner(System.in);
+        System.out.println("Masukkan nama mahasiswa:");
+        namaMhs = in.nextLine();
+        System.out.println("Masukkan NIM mahasiswa:");
+        nimMhs = in.nextLine();
+        
+        for(int i=0;i<2;i++) {
+            System.out.println("Masukkan nama mata kuliah ke-"+(i+1)+":");
+            matkul[i] = in.nextLine();
+            System.out.println("Masukkan sks "+matkul[i]+":");
+            sks[i] = in.nextDouble();
+            System.out.println("Masukkan nilai uts "+matkul[i]+":");
+            double uts = in.nextDouble();
+            System.out.println("Masukkan nilai uas "+matkul[i]+":");
+            double uas = in.nextDouble();
+            System.out.println("Masukkan nilai ukk "+matkul[i]+":");
+            double ukk = in.nextDouble();
+            na[i] = (0.15*uts) + (0.15*uas) + (0.7*ukk);
+            if(na[i] > 80){
+                huruf[i] = "A";
+                nKonversi[i] = 4;
+            } else if((na[i] > 75) && (na[i] <= 80)){
+                huruf[i] = "B+";
+                nKonversi[i] = 3.5;
+            } else if((na[i] > 70) && (na[i] <= 75)){
+                huruf[i] = "B";
+                nKonversi[i] = 3;
+            } else if((na[i] > 65) && (na[i] <= 70)){
+                huruf[i] = "C+";
+                nKonversi[i] = 2.5;
+            } else if((na[i] > 60) && (na[i] <= 65)){
+                huruf[i] = "C";
+                nKonversi[i] = 2;
+            } else if((na[i] > 55) && (na[i] <= 60)){
+                huruf[i] = "D+";
+                nKonversi[i] = 1.5;
+            } else if((na[i] > 50) && (na[i] <= 55)){
+                huruf[i] = "D";
+                nKonversi[i] = 1;
+            } else {
+                huruf[i] = "E";
+                nKonversi[0] = 0;
+            }
+            in.nextLine();
+        }
+        
+        ipk = ((nKonversi[0] * sks[0]) + (nKonversi[1] * sks[1])) / (sks[0] + sks[1]);
+        
+        System.out.println("----------KHS----------"+
+                           "\nNama: "+namaMhs+
+                           "\nNIM: "+nimMhs+
+                           "\n---Nilai Mata Kuliah---"+
+                           "\nMata kuliah ke-1: "+matkul[0]+" ("+sks[0]+") nilai: "+na[0]+" ("+huruf[0]+")"+
+                           "\nMata kuliah ke-2: "+matkul[1]+" ("+sks[1]+") nilai: "+na[1]+" ("+huruf[1]+")"+
+                           "\n-------Nilai IPK-------"+
+                           "\nIPK: "+ipk);
+    }
+}
