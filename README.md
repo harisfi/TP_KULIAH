@@ -115,7 +115,7 @@ yang telah dijelaskan dalam perkuliahan.
 
 ## Kontak
 
-M Haris Firmansyah - mail.haris@student.ub.ac.id
+M Haris Firmansyah - <a href="mailto:%61%63%63%2e%63%70%2e%68%61%72%69%73%40%67%6d%61%69%6c%2e%63%6f%6d">Email</a>
 
 Repo Link: https://github.com/harisfi/TP_KULIAH
 
