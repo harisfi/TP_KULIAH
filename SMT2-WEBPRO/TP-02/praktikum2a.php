@@ -1,5 +1,5 @@
 <?php
-    if (!empty($_POST)) {
+    if (!empty($_POST) && !empty($_POST['gaji_pokok']) && !empty($_POST['golongan'])) {
         $gaji_pokok = $_POST['gaji_pokok'];
         $golongan = $_POST['golongan'];
         switch ($golongan) {
@@ -43,13 +43,13 @@
 <body>
     <form method="POST">
         <label for="gaji_pokok">Gaji Pokok: </label>
-        <input id="gaji_pokok" name="gaji_pokok" placeholder="Masukkan gaji pokok" type="number">
+        <input id="gaji_pokok" name="gaji_pokok" placeholder="Masukkan gaji pokok" type="number" required>
         <label for="golongan">Golongan: </label>
-        <input id="golongan" name="golongan" placeholder="Masukkan golongan" type="number">
+        <input id="golongan" name="golongan" placeholder="Masukkan golongan" type="number" required>
         <input type="submit" value="Submit">
     </form>
     <?php
-        if (!empty($_POST)) {
+        if (!empty($_POST) && !empty($_POST['gaji_pokok']) && !empty($_POST['golongan'])) {
             echo "
             <div class='output'>
                 <span>Gaji Pokok: $gaji_pokok</span>
