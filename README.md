@@ -13,15 +13,15 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
     <details>
     <summary>VTK50019 Algoritma dan Pemrograman Semester 1</summary>
 
-    - [Pertemuan ke-1][L1]
-    - [Pertemuan ke-2][L2]
-    - [Pertemuan ke-3][L3]
-    - [Pertemuan ke-4][L4]
-    - [Pertemuan ke-5][L5]
-    - [Pertemuan ke-6][L6]
-    - [Pertemuan ke-7][L7]
-    - [Pertemuan ke-8][L8]
-    - [Pertemuan ke-9][L9]
+    - [Tugas/Praktikum 1][L1]
+    - [Tugas/Praktikum 2][L2]
+    - [Tugas/Praktikum 3][L3]
+    - [Tugas/Praktikum 4][L4]
+    - [Tugas/Praktikum 5][L5]
+    - [Tugas/Praktikum 6][L6]
+    - [Tugas/Praktikum 7][L7]
+    - [Tugas/Praktikum 8][L8]
+    - [Tugas/Praktikum 9][L9]
     - [Quiz][L10]
     - [UTS][L11]
     - [UAS][L12]
@@ -30,9 +30,9 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
     <details>
     <summary>VTK50007 Pemrograman Web Semester 2</summary>
 
-    - [Pertemuan ke-1][L13]
-    - [Pertemuan ke-2][L14]
-    - [Pertemuan ke-3][L15]
+    - [Tugas/Praktikum 1][L13]
+    - [Tugas/Praktikum 2][L14]
+    - [Tugas/Praktikum 3][L15]
 
     </details>
 2. [Memulai](#memulai)
