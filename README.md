@@ -32,6 +32,7 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
 
     - [Pertemuan ke-1][L13]
     - [Pertemuan ke-2][L14]
+    - [Pertemuan ke-3][L15]
 
     </details>
 2. [Memulai](#memulai)
@@ -134,6 +135,7 @@ Repo Link: https://github.com/harisfi/TP_KULIAH
 [L12]: SMT1-ALPRO/UAS/
 [L13]: SMT2-WEBPRO/TP-01/
 [L14]: SMT2-WEBPRO/TP-02/
+[L15]: SMT2-WEBPRO/TP-03/
 [lisensi-bsd]: LICENSE
 [lisensi-cc]: https://creativecommons.org/licenses/by-sa/4.0
 [openjdk]: https://openjdk.java.net/
