@@ -46,6 +46,12 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
     - [Tugas/Praktikum 5][L21]
 
     </details>
+    <details>
+    <summary>VTK50005 Basis Data Semester 2</summary>
+
+    - [UTS][L22]
+
+    </details>
 2. [Memulai](#memulai)
     1. [Prasyarat](#prasyarat)
     2. [Instalasi](#instalasi)
@@ -153,6 +159,7 @@ Repo Link: https://github.com/harisfi/TP_KULIAH
 [L19]: SMT2-WEBPRO/TP-04/
 [L20]: SMT2-PBO/TP-04/
 [L21]: SMT2-PBO/TP-05/
+[L22]: SMT2-BASDAT/UTS/
 [lisensi-bsd]: LICENSE
 [lisensi-cc]: https://creativecommons.org/licenses/by-sa/4.0
 [openjdk]: https://openjdk.java.net/
