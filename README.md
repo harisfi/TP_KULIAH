@@ -47,6 +47,7 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
     - [Tugas/Praktikum 5][L21]
     - [Tugas/Praktikum 6][L24]
     - [Tugas/Praktikum 7][L25]
+    - [Tugas/Praktikum 8][L27]
     - [UTS][L23]
 
     </details>
@@ -168,6 +169,7 @@ Repo Link: https://github.com/harisfi/TP_KULIAH
 [L24]: SMT2-PBO/TP-06/
 [L25]: SMT2-PBO/TP-07/
 [L26]: SMT2-WEBPRO/TP-08/
+[L27]: SMT2-PBO/TP-08/
 [lisensi-bsd]: LICENSE
 [lisensi-cc]: https://creativecommons.org/licenses/by-sa/4.0
 [openjdk]: https://openjdk.java.net/
