@@ -66,9 +66,16 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
     - [Tugas/Praktikum 3][L32]
 
     </details>
+    <details>
     <summary>VTS50016 Pemrograman Front End (Javascript) Semester 3</summary>
 
     - [Tugas/Praktikum 1][L31]
+
+    </details>
+    <details>
+    <summary>VTS50003 Pemrograman Web Lanjut Semester 3</summary>
+
+    - [Tugas/Praktikum 1][L33]
 
     </details>
 2. [Memulai](#memulai)
@@ -189,6 +196,7 @@ Repo Link: https://github.com/harisfi/TP_KULIAH
 [L30]: SMT3-BASDAT-LJT/TP-02/
 [L31]: SMT3-WEBPRO-FE-JS/TP-01/
 [L32]: SMT3-BASDAT-LJT/TP-03/
+[L33]: SMT3-WEBPRO-LJT/TP-01/
 [lisensi-bsd]: LICENSE
 [lisensi-cc]: https://creativecommons.org/licenses/by-sa/4.0
 [openjdk]: https://openjdk.java.net/
