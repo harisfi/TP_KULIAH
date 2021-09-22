@@ -78,6 +78,12 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
     - [Tugas/Praktikum 1][L33]
 
     </details>
+    <details>
+    <summary>VTS50015 Pemrograman Mobile Semester 3</summary>
+
+    - [Tugas/Praktikum 1][L34]
+
+    </details>
 2. [Memulai](#memulai)
     1. [Prasyarat](#prasyarat)
     2. [Instalasi](#instalasi)
@@ -197,6 +203,7 @@ Repo Link: https://github.com/harisfi/TP_KULIAH
 [L31]: SMT3-WEBPRO-FE-JS/TP-01/
 [L32]: SMT3-BASDAT-LJT/TP-03/
 [L33]: SMT3-WEBPRO-LJT/TP-01/
+[L34]: SMT3-MOBILE/TP-01/
 [lisensi-bsd]: LICENSE
 [lisensi-cc]: https://creativecommons.org/licenses/by-sa/4.0
 [openjdk]: https://openjdk.java.net/
