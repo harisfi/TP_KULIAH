@@ -70,6 +70,7 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
     <summary>VTS50016 Pemrograman Front End (Javascript) Semester 3</summary>
 
     - [Tugas/Praktikum 1][L31]
+    - [Tugas/Praktikum 2][L35]
 
     </details>
     <details>
@@ -204,6 +205,7 @@ Repo Link: https://github.com/harisfi/TP_KULIAH
 [L32]: SMT3-BASDAT-LJT/TP-03/
 [L33]: SMT3-WEBPRO-LJT/TP-01/
 [L34]: SMT3-MOBILE/TP-01/
+[L35]: SMT3-WEBPRO-FE-JS/TP-02/
 [lisensi-bsd]: LICENSE
 [lisensi-cc]: https://creativecommons.org/licenses/by-sa/4.0
 [openjdk]: https://openjdk.java.net/
