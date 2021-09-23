@@ -1,0 +1,194 @@
+/* RESET */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/* END RESET */
+
+body {
+  background-color: wheat;
+  font-family: sans-serif;
+  overflow-x: hidden;
+}
+.container{
+  max-width: 1000px;
+  margin: auto;
+  background-color: white;
+  padding-top: 20px;
+}
+h1, h2, h3 {
+  font-weight: bold;
+}
+h2, h3 {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+h1 {
+  padding-bottom: 20px;
+  font-size: 32px;
+}
+h2 {
+  font-size: 24px;
+}
+h3 {
+  font-size: 16px;
+}
+ul {
+  list-style: none;
+  padding: 0px;
+  margin-bottom: 30px;
+}
+li {
+  float: left;
+  margin-right: 10px;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  color: darkblue;
+  transition: .3s ease-in-out;
+}
+.img-article {
+  display: block;
+  width: 100%;
+  border-top: 3px solid red;
+  border-bottom: 3px solid red;
+}
+.img-profile {
+  float: left;
+  padding-right: 10px;
+}
+span {
+  font-size: 14px;
+}
+time {
+  color: brown;
+}
+p {
+  margin: 15px 0px;
+  text-align: justify;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 15px 0px;
+  margin-top: 50px;
+}
+.px-20 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.content {
+  float: left;
+}
+.article {
+  width: 60%;
+}
+.writer {
+  width: 35%;
+  float: right;
+}
+.border-top {
+  border-top: 40px solid brown;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.relative {
+  position: relative;
+}
+.ribbon-wrapper-green {
+  width: 85px;
+  height: 88px;
+  overflow: hidden;
+  position: absolute;
+  top: -3px;
+  right: -3px;
+}
+
+.ribbon-green {
+  font: bold 15px Sans-Serif;
+  text-align: center;
+  text-shadow: rgba(255, 255, 255, 0.5) 0px 1px 0px;
+  transform: rotate(45deg);
+  position: relative;
+  padding: 7px 0;
+  left: -5px;
+  top: 15px;
+  width: 120px;
+  background-color: #dc7a7a;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#dc7a7a), to(#bf4545));
+  background-image: -webkit-linear-gradient(top, #dc7a7a, #bf4545);
+  background-image: -moz-linear-gradient(top, #dc7a7a, #bf4545);
+  background-image: -ms-linear-gradient(top, #dc7a7a, #bf4545);
+  background-image: -o-linear-gradient(top, #dc7a7a, #bf4545);
+  color: #6a4040;
+}
+
+.ribbon-green:before,
+.ribbon-green:after {
+  content: "";
+  border-top: 3px solid #890000;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  position: absolute;
+  bottom: -3px;
+}
+
+.ribbon-green:before {
+  left: 0;
+}
+
+.ribbon-green:after {
+  right: 0;
+}
