@@ -9,4 +9,11 @@ newEl.appendChild(link);
 navbar.insertBefore(newEl, li);
 
 const gambarProduk = document.getElementsByClassName('gambar')[0];
-gambarProduk.src = "https://lh3.googleusercontent.com/rCWhDwE6AZYYIsfmceH0WGoS3zF_nOLtQ7BtZgerNCRob3jbs7LwLpEmav86KLcV-1BWW8Gyuwveo8M=w1366-h626";
+gambarProduk.src = "./produk3resize.jpg";
+
+var para = document.getElementsByClassName('paragraf')[1];
+console.log(para.parentNode.className);
+var newPara = document.createElement('div');
+newPara.className = 'paragraf';
+newPara.innerText = 'paragraf';
+para.parentNode.replaceChild(newPara, para);
