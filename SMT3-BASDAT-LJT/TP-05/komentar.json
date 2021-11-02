@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "K001",
+        "tanggal": "2021-11-02",
+        "isi_komentar": "mantap",
+        "artikel_id": "A001"
+    },
+    {
+        "_id": "K002",
+        "tanggal": "2021-11-02",
+        "isi_komentar": "mantap",
+        "artikel_id": "A002"
+    },
+    {
+        "_id": "K003",
+        "tanggal": "2021-11-02",
+        "isi_komentar": "mantap",
+        "artikel_id": "A001"
+    },
+    {
+        "_id": "K004",
+        "tanggal": "2021-11-02",
+        "isi_komentar": "mantap",
+        "artikel_id": "A002"
+    }
+]
