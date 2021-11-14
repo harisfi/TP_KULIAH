@@ -1,20 +1,38 @@
-[
-    {
-        "_id": "A001",
-        "judul": "Lorem Ipsum 1",
-        "tanggal": "2021-11-02",
-        "isi_artikel": "isi",
-        "kategori": "olahraga",
-        "tag": ["voli", "silat", "renang", "basket"],
-        "user_id": "U001"
-    },
-    {
-        "_id": "A002",
-        "judul": "Lorem Ipsum 2",
-        "tanggal": "2021-11-02",
-        "isi_artikel": "isi",
-        "kategori": "pendidikan",
-        "tag": ["fisika", "kimia", "biologi", "matematika", "seni", "bahasa"],
-        "user_id": "U002"
-    }
-]
+{
+    "_id": "A001",
+    "judul": "Lorem Ipsum 1",
+    "tanggal": "2021-11-02",
+    "isi_artikel": "isi",
+    "kategori": ["olahraga"],
+    "tag": ["T002", "T004", "T006"],
+    "user_id": "U001",
+    "komentar": [
+        {
+            "tanggal": "2021-11-02",
+            "isi_komentar": "mantap"
+        },
+        {
+            "tanggal": "2021-11-02",
+            "isi_komentar": "mantap"
+        }
+    ]
+}
+{
+    "_id": "A002",
+    "judul": "Lorem Ipsum 2",
+    "tanggal": "2021-11-02",
+    "isi_artikel": "isi",
+    "kategori": ["pendidikan"],
+    "tag": ["T001", "T003", "T005"],
+    "user_id": "U002",
+    "komentar": [
+        {
+            "tanggal": "2021-11-02",
+            "isi_komentar": "mantap"
+        },
+        {
+            "tanggal": "2021-11-02",
+            "isi_komentar": "mantap"
+        }
+    ]
+}
