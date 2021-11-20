@@ -78,6 +78,8 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
     - [UTS][L39]
     - [Tugas/Praktikum 4][L40]
     - [Tugas/Praktikum 5][L42]
+    - [Tugas/Praktikum 6][L43]
+    - [Tugas/Praktikum 7][L44]
 
     </details>
     <details>
@@ -220,6 +222,8 @@ Repo Link: https://github.com/harisfi/TP_KULIAH
 [L40]: SMT3-WEBPRO-FE-JS/TP-04/
 [L41]: SMT3-BASDAT-LJT/TP-05/
 [L42]: SMT3-WEBPRO-FE-JS/TP-05/
+[L43]: SMT3-WEBPRO-FE-JS/TP-06/
+[L44]: SMT3-WEBPRO-FE-JS/TP-07/
 [lisensi-bsd]: LICENSE
 [lisensi-cc]: https://creativecommons.org/licenses/by-sa/4.0
 [openjdk]: https://openjdk.java.net/
