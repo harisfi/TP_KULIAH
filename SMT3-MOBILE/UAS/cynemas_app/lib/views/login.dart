@@ -1,6 +1,6 @@
 import 'package:cynemas_app/components/textfieldcontainer.dart';
 import 'package:cynemas_app/constants.dart';
-import 'package:cynemas_app/utils/login.dart';
+import 'package:cynemas_app/utils/auth.dart';
 import 'package:cynemas_app/views/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
@@ -34,7 +34,9 @@ class _LoginPageState extends State<LoginPage> {
     Future<bool> loginReq = login(unameController.text, passController.text);
     loginReq.then((value) {
       if (value) {
-        Navigator.push(context, MaterialPageRoute(builder: (context) => HomePage()));
+        setUsername(unameController.text);
+        Navigator.push(
+            context, MaterialPageRoute(builder: (context) => HomePage()));
       } else {
         ScaffoldMessenger.of(context).showSnackBar(snackBar);
       }
@@ -53,17 +55,19 @@ class _LoginPageState extends State<LoginPage> {
           children: <Widget>[
             Text(
               'Cynemas',
-              style: GoogleFonts.poppins(
+              style: GoogleFonts.greatVibes(
                   color: cPrimaryColor,
-                  fontSize: 24,
+                  fontSize: 52,
                   fontWeight: FontWeight.bold),
             ),
             Text(
               'Login to continue',
               style: GoogleFonts.poppins(color: cPrimaryColor),
             ),
+            SizedBox(height: 30),
             SvgPicture.asset('images/home_cinema.svg',
-                height: size.height * 0.4),
+                height: size.height * 0.35),
+            SizedBox(height: 25),
             TextFieldContainer(
               child: TextField(
                 decoration: InputDecoration(
@@ -71,6 +75,7 @@ class _LoginPageState extends State<LoginPage> {
                     hintText: "Masukkan Username",
                     border: InputBorder.none),
                 controller: unameController,
+                style: GoogleFonts.poppins(),
               ),
             ),
             TextFieldContainer(
@@ -81,11 +86,12 @@ class _LoginPageState extends State<LoginPage> {
                     hintText: "Masukkan Password",
                     border: InputBorder.none),
                 controller: passController,
+                style: GoogleFonts.poppins(),
               ),
             ),
             Container(
               width: size.width * 0.6,
-              margin: EdgeInsets.only(top: 10),
+              margin: EdgeInsets.only(top: 20),
               child: ClipRRect(
                 borderRadius: BorderRadius.circular(30),
                 child: TextButton(
@@ -97,8 +103,9 @@ class _LoginPageState extends State<LoginPage> {
                   onPressed: loadingState ? null : () => _login(context),
                   child: Text(
                     loadingState ? "Loading..." : "Login",
-                    style: TextStyle(
-                        color: loadingState ? Colors.black : Colors.white),
+                    style: GoogleFonts.poppins(
+                      color: loadingState ? Colors.black : Colors.white
+                    ),
                   ),
                 ),
               ),

@@ -1,10 +1,13 @@
 import 'package:cynemas_app/constants.dart';
+import 'package:cynemas_app/utils/auth.dart';
 import 'package:cynemas_app/utils/home.dart';
 import 'package:cynemas_app/models/movie.dart';
+import 'package:cynemas_app/views/login.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:cynemas_app/components/roundrecttabindicator.dart';
+import 'package:intl/intl.dart';
 
 class HomePage extends StatefulWidget {
   @override
@@ -13,11 +16,13 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   late Future<Movie> movieList;
+  String? username;
 
   @override
   void initState() {
     super.initState();
     movieList = getMovies();
+    getUsername().then((value) => username = toBeginningOfSentenceCase(value));
   }
 
   @override
@@ -39,7 +44,7 @@ class _HomePageState extends State<HomePage> {
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
-                          Text("Hi, Haris",
+                          Text('Hi, $username',
                               style: GoogleFonts.openSans(
                                   fontSize: 14,
                                   fontWeight: FontWeight.w600,
@@ -51,7 +56,15 @@ class _HomePageState extends State<HomePage> {
                                   color: Colors.black)),
                         ],
                       ),
-                      IconButton(onPressed: () {}, icon: Icon(Icons.logout))
+                      IconButton(
+                          onPressed: () {
+                            removeUsername();
+                            Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                    builder: (context) => LoginPage()));
+                          },
+                          icon: Icon(Icons.logout))
                     ],
                   ),
                 ),
@@ -144,7 +157,7 @@ class _HomePageState extends State<HomePage> {
                               image: DecorationImage(
                                   image: NetworkImage(
                                       snapshot.data!.search[index].poster),
-                                  fit: BoxFit.cover)),
+                                  fit: BoxFit.cover)), // h
                         );
                       }),
                 ),
@@ -162,51 +175,47 @@ class _HomePageState extends State<HomePage> {
                     shrinkWrap: true,
                     itemCount: snapshot.data!.search.length,
                     itemBuilder: (context, index) {
-                      return GestureDetector(
-                        onTap: () {
-                          print(1);
-                        },
-                        child: Container(
-                          margin: EdgeInsets.only(bottom: 19),
-                          height: 81,
-                          width: MediaQuery.of(context).size.width - 50,
-                          child: Row(
-                            children: <Widget>[
-                              Container(
-                                height: 81,
-                                width: 62,
-                                decoration: BoxDecoration(
-                                    borderRadius: BorderRadius.circular(5),
-                                    color: cPrimaryColor,
-                                    image: DecorationImage(
-                                        image: NetworkImage(
-                                            snapshot.data!.search[index].poster),
-                                        fit: BoxFit.cover)),
-                              ),
-                              SizedBox(width: 21),
-                              Column(
-                                mainAxisAlignment: MainAxisAlignment.center,
-                                crossAxisAlignment: CrossAxisAlignment.start,
-                                children: <Widget>[
-                                  Text(
-                                    snapshot.data!.search[index].title,
-                                    style: GoogleFonts.openSans(
-                                        fontSize: 14,
-                                        fontWeight: FontWeight.w600,
-                                        color: Colors.black),
-                                  ),
-                                  SizedBox(height: 5),
-                                  Text(
-                                    snapshot.data!.search[index].year,
-                                    style: GoogleFonts.openSans(
-                                        fontSize: 12,
-                                        fontWeight: FontWeight.w400,
-                                        color: Colors.black),
-                                  )
-                                ],
-                              )
-                            ],
-                          ),
+                      return Container(
+                        margin: EdgeInsets.only(bottom: 19),
+                        height: 81,
+                        width: MediaQuery.of(context).size.width * 0.8,
+                        child: Row(
+                          children: <Widget>[
+                            Container(
+                              height: 81,
+                              width: 62,
+                              decoration: BoxDecoration(
+                                  borderRadius: BorderRadius.circular(5),
+                                  color: cPrimaryColor,
+                                  image: DecorationImage(
+                                      image: NetworkImage(
+                                          snapshot.data!.search[index].poster),
+                                      fit: BoxFit.cover)),
+                            ),
+                            SizedBox(width: 21),
+                            Expanded(
+                                child: Column(
+                              mainAxisAlignment: MainAxisAlignment.center,
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: <Widget>[
+                                Text(
+                                  snapshot.data!.search[index].title,
+                                  style: GoogleFonts.openSans(
+                                      fontSize: 14,
+                                      fontWeight: FontWeight.w600,
+                                      color: Colors.black),
+                                ),
+                                SizedBox(height: 5),
+                                Text(
+                                  snapshot.data!.search[index].year,
+                                  style: GoogleFonts.openSans(
+                                      fontSize: 12,
+                                      fontWeight: FontWeight.w400,
+                                      color: Colors.black),
+                                )
+                              ],
+                            ))
+                          ],
                         ),
                       );
                     })

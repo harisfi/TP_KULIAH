@@ -1,5 +1,6 @@
 import 'dart:convert' as convert;
 import 'package:http/http.dart' as http;
+import 'package:shared_preferences/shared_preferences.dart';
 
 Future<bool> login(String username, String pass) async {
   try {
@@ -17,3 +18,19 @@ Future<bool> login(String username, String pass) async {
     return false;
   }
 }
+
+Future<String?> getUsername() async {
+  final prefs = await SharedPreferences.getInstance();
+  return prefs.getString('username');
+}
+
+void setUsername(String username) async {
+  final prefs = await SharedPreferences.getInstance();
+  prefs.setString('username', username);
+}
+
+void removeUsername() async {
+  final prefs = await SharedPreferences.getInstance();
+  prefs.remove('username');
+}
+
