@@ -1,6 +1,7 @@
 import 'package:cynemas_app/components/textfieldcontainer.dart';
 import 'package:cynemas_app/constants.dart';
-import 'package:cynemas_app/controllers/login.dart';
+import 'package:cynemas_app/utils/login.dart';
+import 'package:cynemas_app/views/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -32,13 +33,13 @@ class _LoginPageState extends State<LoginPage> {
     setLoadingState(true);
     Future<bool> loginReq = login(unameController.text, passController.text);
     loginReq.then((value) {
-          if (value) {
-            print(1);
-          } else {
-            ScaffoldMessenger.of(context).showSnackBar(snackBar);
-          }
-          setLoadingState(false);
-        });
+      if (value) {
+        Navigator.push(context, MaterialPageRoute(builder: (context) => HomePage()));
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(snackBar);
+      }
+      setLoadingState(false);
+    });
   }
 
   @override
@@ -95,7 +96,7 @@ class _LoginPageState extends State<LoginPage> {
                           EdgeInsets.symmetric(vertical: 20, horizontal: 40)),
                   onPressed: loadingState ? null : () => _login(context),
                   child: Text(
-                    "LOGIN",
+                    loadingState ? "Loading..." : "Login",
                     style: TextStyle(
                         color: loadingState ? Colors.black : Colors.white),
                   ),
