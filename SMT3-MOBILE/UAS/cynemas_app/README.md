@@ -1,16 +1,17 @@
 # cynemas_app
 
-A new Flutter project.
+Cynemas is a simple movie app with authentication.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Copy .env.example to .env in assets directory
+  ```
+  cp ./assets/.env.example ./assets/.env
+  ```
 
-A few resources to get you started if this is your first Flutter project:
+2. Get API key from http://www.omdbapi.com/ and fill it in .env
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Run app (in this case i use chrome)
+  ```
+  flutter run -d chrome
+  ```
