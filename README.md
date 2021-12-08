@@ -81,6 +81,7 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
     - [Tugas/Praktikum 6][L43]
     - [Tugas/Praktikum 7][L44]
     - [Tugas/Praktikum 8][L45]
+    - [UAS][L47]
 
     </details>
     <details>
@@ -93,6 +94,7 @@ Sebuah repository yang memuat seluruh tugas, praktikum, serta solusi untuk menye
     <summary>VTS50015 Pemrograman Mobile Semester 3</summary>
 
     - [Tugas/Praktikum 1][L34]
+    - [UAS][L46]
 
     </details>
 2. [Memulai](#memulai)
@@ -226,6 +228,8 @@ Repo Link: https://github.com/harisfi/TP_KULIAH
 [L43]: SMT3-WEBPRO-FE-JS/TP-06/
 [L44]: SMT3-WEBPRO-FE-JS/TP-07/
 [L45]: SMT3-WEBPRO-FE-JS/TP-08/
+[L46]: SMT3-MOBILE/UAS/
+[L47]: SMT3-WEBPRO-FE-JS/UAS/
 [lisensi-bsd]: LICENSE
 [lisensi-cc]: https://creativecommons.org/licenses/by-sa/4.0
 [openjdk]: https://openjdk.java.net/
