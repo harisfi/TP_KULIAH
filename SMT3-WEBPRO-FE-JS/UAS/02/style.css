@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+}
+form {
+  padding: 10px;
+}
+button {
+  margin-top: 10px;
+}
+.flex-center {
+  width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-left: double thick darkblue;
+}

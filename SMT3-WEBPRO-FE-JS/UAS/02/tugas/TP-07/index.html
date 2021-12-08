@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Tugas Event Handler dan Form Vue</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+<body style="background-color: #f4f4f4;">
+  <div id="app">
+    <div class="container">
+      <div class="card mx-auto my-3 shadow" style="max-width: 32rem;">
+        <div class="card-body">
+          <h4 class="text-center">Tugas Event Handler dan Form Vue</h4>
+          <p class="text-center">Studi kasus form absensi</p>
+          <hr>
+          <form @submit.prevent="submit()">
+            <div class="mb-3">
+              <label for="nama" class="form-label">Nama</label>
+              <input type="text" class="form-control" id="nama" placeholder="Nama" v-model="nama">
+            </div>
+            <div class="mb-3">
+              <label for="kelas">Kelas</label>
+              <select class="form-select" id="kelas" v-model="kelas">
+                <option value="" selected disabled>Pilih kelas</option>
+                <option value="SI-3A">SI-3A</option>
+                <option value="SI-3B">SI-3B</option>
+                <option value="SI-3C">SI-3C</option>
+              </select>
+            </div>
+            <div class="row">
+              <div class="col-md-6 mb-3">
+                <label>Keterangan</label>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="ket" id="hadir" value="hadir" v-model="ket">
+                  <label class="form-check-label" for="hadir">Hadir</label>
+                </div>
+                <div class="form-check">
+                  <input class="form-check-input" type="radio" name="ket" id="absen" value="absen" v-model="ket">
+                  <label class="form-check-label" for="absen">Absen</label>
+                </div>
+              </div>
+              <div class="col-md-6 mb-3">
+                <label>Apa yang anda pelajari hari ini?</label>
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="Event Handler" id="event" v-model="hasil">
+                  <label class="form-check-label" for="event">Event Handler</label>
+                </div>
+                <div class="form-check">
+                  <input class="form-check-input" type="checkbox" value="Form Handling" id="form" v-model="hasil">
+                  <label class="form-check-label" for="form">Form Handling</label>
+                </div>
+              </div>
+            </div>
+            <div class="d-flex justify-content-between">
+              <button type="submit" class="btn btn-primary">Kirim</button>
+              <button @click="summary" type="button" class="btn btn-success">Summary</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
